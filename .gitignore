@@ -1,0 +1,11 @@
+__pycache__
+.DS_Store
+
+fid
+hw1_dataset
+hw1_dataset.zip
+hw3_r12922127.docx
+*.jpg
+
+hw1_in_hw3_text
+hw1_in_hw3_image

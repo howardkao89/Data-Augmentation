@@ -1,0 +1,5025 @@
+[
+    {
+        "image": "IMG_2489_jpeg_jpg.rf.ffb357957a29cdef43f3fdfb2a13c417.jpg",
+        "label": "jellyfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.0,
+                0.734375,
+                0.22916666666666666,
+                0.9716796875
+            ],
+            [
+                0.1640625,
+                0.720703125,
+                0.7252604166666666,
+                0.900390625
+            ],
+            [
+                0.013020833333333334,
+                0.8251953125,
+                0.2760416666666667,
+                0.955078125
+            ],
+            [
+                0.6380208333333334,
+                0.474609375,
+                0.9088541666666666,
+                0.5947265625
+            ],
+            [
+                0.8658854166666666,
+                0.2587890625,
+                0.9986979166666666,
+                0.3125
+            ],
+            [
+                0.7044270833333334,
+                0.9111328125,
+                0.9986979166666666,
+                0.9990234375
+            ]
+        ],
+        "generated_text": "a group of jellyfish swimming in the ocean under blue water",
+        "prompt_w_label": "a group of jellyfish swimming in the ocean under blue water, jellyfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of jellyfish swimming in the ocean under blue water, jellyfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3147_jpeg_jpg.rf.fc4622004ff72e58b546635774372fe2.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.11848958333333333,
+                0.3828125,
+                0.7434895833333334,
+                0.8037109375
+            ],
+            [
+                0.08723958333333333,
+                0.32421875,
+                0.16536458333333334,
+                0.3876953125
+            ],
+            [
+                0.80078125,
+                0.1142578125,
+                0.9830729166666666,
+                0.1826171875
+            ]
+        ],
+        "generated_text": "a puffin swimming in a pool of water with rocks and grass",
+        "prompt_w_label": "a puffin swimming in a pool of water with rocks and grass, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in a pool of water with rocks and grass, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2402_jpeg_jpg.rf.ff2e5af0a2d1693c155a01d7494fc8e4.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.09244791666666667,
+                0.5234375,
+                0.5,
+                0.8037109375
+            ],
+            [
+                0.3997395833333333,
+                0.373046875,
+                0.65625,
+                0.5556640625
+            ],
+            [
+                0.6705729166666666,
+                0.185546875,
+                0.7317708333333334,
+                0.234375
+            ],
+            [
+                0.3033854166666667,
+                0.2607421875,
+                0.3854166666666667,
+                0.306640625
+            ],
+            [
+                0.4036458333333333,
+                0.1162109375,
+                0.4674479166666667,
+                0.1591796875
+            ],
+            [
+                0.13671875,
+                0.064453125,
+                0.22526041666666666,
+                0.1015625
+            ]
+        ],
+        "generated_text": "a group of fish swimming in an aquarium with rocks and coral",
+        "prompt_w_label": "a group of fish swimming in an aquarium with rocks and coral, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of fish swimming in an aquarium with rocks and coral, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2383_jpeg_jpg.rf.fd376436d382e985e3c0e6936860212f.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.045572916666666664,
+                0.4921875,
+                0.5130208333333334,
+                0.82421875
+            ],
+            [
+                0.703125,
+                0.3623046875,
+                0.9661458333333334,
+                0.6259765625
+            ]
+        ],
+        "generated_text": "a couple of two starfish are in an aquarium next to a rock",
+        "prompt_w_label": "a couple of two starfish are in an aquarium next to a rock, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a couple of two starfish are in an aquarium next to a rock, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2541_jpeg_jpg.rf.fc997b87790e715d47ce1cc83edf79c2.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3932291666666667,
+                0.400390625,
+                0.6953125,
+                0.712890625
+            ]
+        ],
+        "generated_text": "a starfish is sitting on the bottom of a rocky area",
+        "prompt_w_label": "a starfish is sitting on the bottom of a rocky area, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a starfish is sitting on the bottom of a rocky area, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8512_MOV-2_jpg.rf.00f06559a0df06b71002d0b3dbf1804c.jpg",
+        "label": "fish",
+        "height": 576,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.2138671875,
+                0.3993055555555556,
+                0.6728515625,
+                0.7725694444444444
+            ]
+        ],
+        "generated_text": "a fish swimming in a tank with other fish swimming around it",
+        "prompt_w_label": "a fish swimming in a tank with other fish swimming around it, fish, height: 576, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a tank with other fish swimming around it, fish, height: 576, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2361_jpeg_jpg.rf.02195fab4639c0b58bef41a6944fda9d.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.2591145833333333,
+                0.4140625,
+                0.703125,
+                0.7578125
+            ]
+        ],
+        "generated_text": "a fish swimming in an aquarium with rocks and a large rock",
+        "prompt_w_label": "a fish swimming in an aquarium with rocks and a large rock, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish swimming in an aquarium with rocks and a large rock, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2625_jpeg_jpg.rf.049cfca5fa7da90878060904a452975d.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.2604166666666667,
+                0.314453125,
+                0.4752604166666667,
+                0.6484375
+            ]
+        ],
+        "generated_text": "a stingray swimming in a tank with rocks and a blue fish",
+        "prompt_w_label": "a stingray swimming in a tank with rocks and a blue fish, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a stingray swimming in a tank with rocks and a blue fish, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3160_jpeg_jpg.rf.05d38ee75197d98ea070e8aa03a5bfcb.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3619791666666667,
+                0.53515625,
+                0.6041666666666666,
+                0.7255859375
+            ]
+        ],
+        "generated_text": "a large aquarium with a puffin swimming in the water",
+        "prompt_w_label": "a large aquarium with a puffin swimming in the water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a large aquarium with a puffin swimming in the water, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8410_jpg.rf.080d0f9f09ffb56da86e800ed8e37df7.jpg",
+        "label": "shark",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.3857421875,
+                0.2578125,
+                0.6484375,
+                0.8528645833333334
+            ]
+        ],
+        "generated_text": "a shark swimming in an aquarium with a fish and coral",
+        "prompt_w_label": "a shark swimming in an aquarium with a fish and coral, shark, height: 768, width: 1024",
+        "prompt_w_suffix": "a shark swimming in an aquarium with a fish and coral, shark, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8511_jpg.rf.0613c7cf6abb8e5201e65def1c22805c.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.1162109375,
+                0.3098958333333333,
+                0.3798828125,
+                0.5065104166666666
+            ],
+            [
+                0.8359375,
+                0.22786458333333334,
+                0.8681640625,
+                0.2630208333333333
+            ],
+            [
+                0.8798828125,
+                0.22005208333333334,
+                0.908203125,
+                0.24869791666666666
+            ],
+            [
+                0.8818359375,
+                0.2630208333333333,
+                0.916015625,
+                0.2890625
+            ],
+            [
+                0.8134765625,
+                0.29296875,
+                0.857421875,
+                0.31640625
+            ],
+            [
+                0.8212890625,
+                0.19010416666666666,
+                0.84375,
+                0.20833333333333334
+            ]
+        ],
+        "generated_text": "a fish swimming in a tank with coral and other plants",
+        "prompt_w_label": "a fish swimming in a tank with coral and other plants, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a tank with coral and other plants, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2377_jpeg_jpg.rf.058bc10292405404b78e4d6ec8315b44.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.09635416666666667,
+                0.4423828125,
+                0.5559895833333334,
+                0.8818359375
+            ],
+            [
+                0.3463541666666667,
+                0.3408203125,
+                0.8932291666666666,
+                0.5556640625
+            ]
+        ],
+        "generated_text": "a couple of fish swimming in an aquarium next to a rock",
+        "prompt_w_label": "a couple of fish swimming in an aquarium next to a rock, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a couple of fish swimming in an aquarium next to a rock, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8541_jpg.rf.066c747a66e7275139820b42b4a84394.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.2119140625,
+                0.46484375,
+                0.6513671875,
+                0.9934895833333334
+            ],
+            [
+                0.87109375,
+                0.015625,
+                0.9990234375,
+                0.3815104166666667
+            ],
+            [
+                0.17578125,
+                0.2604166666666667,
+                0.326171875,
+                0.3359375
+            ]
+        ],
+        "generated_text": "a fish swimming in a tank with plants and a bird",
+        "prompt_w_label": "a fish swimming in a tank with plants and a bird, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a tank with plants and a bird, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8512_MOV-6_jpg.rf.02aa66e66ae9d7a5756bd29399a39936.jpg",
+        "label": "fish",
+        "height": 576,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.1455078125,
+                0.5920138888888888,
+                0.595703125,
+                0.9461805555555556
+            ],
+            [
+                0.6220703125,
+                0.21180555555555555,
+                0.8662109375,
+                0.546875
+            ]
+        ],
+        "generated_text": "a white fish laying on the ground in a dark area",
+        "prompt_w_label": "a white fish laying on the ground in a dark area, fish, height: 576, width: 1024",
+        "prompt_w_suffix": "a white fish laying on the ground in a dark area, fish, height: 576, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2309_jpeg_jpg.rf.088f73ff0b07c30ce6212eb4e3013708.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3619791666666667,
+                0.4501953125,
+                0.6536458333333334,
+                0.515625
+            ]
+        ],
+        "generated_text": "a blue fish swimming in a clear water pool near rocks",
+        "prompt_w_label": "a blue fish swimming in a clear water pool near rocks, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a blue fish swimming in a clear water pool near rocks, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2293_jpeg_jpg.rf.0a25194b094d64e91068eaa7fcaf4feb.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.22526041666666666,
+                0.322265625,
+                0.6588541666666666,
+                0.6796875
+            ]
+        ],
+        "generated_text": "a puffin swimming in the water near a rock wall",
+        "prompt_w_label": "a puffin swimming in the water near a rock wall, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in the water near a rock wall, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2303_jpeg_jpg.rf.0c70be2d073ae94feeb463b79babaab8.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.10677083333333333,
+                0.3623046875,
+                0.9088541666666666,
+                0.779296875
+            ],
+            [
+                0.24479166666666666,
+                0.3359375,
+                0.33203125,
+                0.443359375
+            ],
+            [
+                0.17578125,
+                0.3134765625,
+                0.22265625,
+                0.3623046875
+            ],
+            [
+                0.44140625,
+                0.33984375,
+                0.4752604166666667,
+                0.380859375
+            ]
+        ],
+        "generated_text": "a penguin swimming in the water near a rock wall",
+        "prompt_w_label": "a penguin swimming in the water near a rock wall, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water near a rock wall, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3158_jpeg_jpg.rf.0f2bac58bc2e3ca07172215f073a2dab.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.0078125,
+                0.451171875,
+                0.25,
+                0.6611328125
+            ],
+            [
+                0.23307291666666666,
+                0.3525390625,
+                0.4622395833333333,
+                0.412109375
+            ],
+            [
+                0.5247395833333334,
+                0.1513671875,
+                0.83984375,
+                0.333984375
+            ]
+        ],
+        "generated_text": "a puffin swimming in the water near a rock wall",
+        "prompt_w_label": "a puffin swimming in the water near a rock wall, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in the water near a rock wall, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2509_jpeg_jpg.rf.0c8d6158f08975bd24497a5fb02572d2.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.0,
+                0.4267578125,
+                0.9192708333333334,
+                0.9990234375
+            ]
+        ],
+        "generated_text": "a shark swimming in an aquarium with a large rock in the background",
+        "prompt_w_label": "a shark swimming in an aquarium with a large rock in the background, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in an aquarium with a large rock in the background, shark, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3121_jpeg_jpg.rf.0868c7d1a4e32a0ca167c247eefea800.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.16536458333333334,
+                0.3564453125,
+                0.6927083333333334,
+                0.6806640625
+            ],
+            [
+                0.0,
+                0.23828125,
+                0.24739583333333334,
+                0.326171875
+            ]
+        ],
+        "generated_text": "a fish tank with rocks and a starfish in it",
+        "prompt_w_label": "a fish tank with rocks and a starfish in it, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish tank with rocks and a starfish in it, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2648_jpeg_jpg.rf.122267403ea0ae066f642e62434ef2e3.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.5794270833333334,
+                0.4716796875,
+                0.83203125,
+                0.6015625
+            ],
+            [
+                0.2994791666666667,
+                0.4609375,
+                0.4700520833333333,
+                0.5458984375
+            ]
+        ],
+        "generated_text": "a group of sting rays swimming in an aquarium with rocks and coral",
+        "prompt_w_label": "a group of sting rays swimming in an aquarium with rocks and coral, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of sting rays swimming in an aquarium with rocks and coral, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8599_MOV-2_jpg.rf.0b2b0733befaae0b08c0e04b86f295b9.jpg",
+        "label": "jellyfish",
+        "height": 1024,
+        "width": 576,
+        "bboxes": [
+            [
+                0.25,
+                0.5009765625,
+                0.390625,
+                0.59375
+            ],
+            [
+                0.3402777777777778,
+                0.2275390625,
+                0.4340277777777778,
+                0.306640625
+            ],
+            [
+                0.6614583333333334,
+                0.5810546875,
+                0.7864583333333334,
+                0.640625
+            ],
+            [
+                0.3177083333333333,
+                0.5830078125,
+                0.4618055555555556,
+                0.6953125
+            ]
+        ],
+        "generated_text": "a group of jellyfish swimming in a blue ocean with a blue sky",
+        "prompt_w_label": "a group of jellyfish swimming in a blue ocean with a blue sky, jellyfish, height: 1024, width: 576",
+        "prompt_w_suffix": "a group of jellyfish swimming in a blue ocean with a blue sky, jellyfish, height: 1024, width: 576, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2292_jpeg_jpg.rf.122a0051d4d65d8651089a2ebbc2ed85.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.19140625,
+                0.234375,
+                0.84765625,
+                0.6328125
+            ]
+        ],
+        "generated_text": "a puffin swimming in a pool of water with rocks in the background",
+        "prompt_w_label": "a puffin swimming in a pool of water with rocks in the background, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in a pool of water with rocks in the background, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2374_jpeg_jpg.rf.13a3afe5fa27f706d031758c74d64dae.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3216145833333333,
+                0.4892578125,
+                0.65234375,
+                0.70703125
+            ]
+        ],
+        "generated_text": "a starfish is sitting on a rock in an aquarium",
+        "prompt_w_label": "a starfish is sitting on a rock in an aquarium, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a starfish is sitting on a rock in an aquarium, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2406_jpeg_jpg.rf.1188b08782ffbc29af95b22721ca6015.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3619791666666667,
+                0.4482421875,
+                0.75,
+                0.6611328125
+            ]
+        ],
+        "generated_text": "a fish swimming in an aquarium with a coral reef",
+        "prompt_w_label": "a fish swimming in an aquarium with a coral reef, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish swimming in an aquarium with a coral reef, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8551_MOV-0_jpg.rf.13c7f883c88334a6674eea274024d390.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 576,
+        "bboxes": [
+            [
+                0.3107638888888889,
+                0.302734375,
+                0.6649305555555556,
+                0.3759765625
+            ],
+            [
+                0.003472222222222222,
+                0.1787109375,
+                0.10416666666666667,
+                0.2841796875
+            ]
+        ],
+        "generated_text": "a group of fish swimming in a coral reef with other fish",
+        "prompt_w_label": "a group of fish swimming in a coral reef with other fish, fish, height: 1024, width: 576",
+        "prompt_w_suffix": "a group of fish swimming in a coral reef with other fish, fish, height: 1024, width: 576, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2623_jpeg_jpg.rf.0af1f3048c78df2f0f8dc887ff548198.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.16666666666666666,
+                0.458984375,
+                0.9036458333333334,
+                0.7177734375
+            ]
+        ],
+        "generated_text": "a stingray swimming in an aquarium with rocks and plants",
+        "prompt_w_label": "a stingray swimming in an aquarium with rocks and plants, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a stingray swimming in an aquarium with rocks and plants, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2629_jpeg_jpg.rf.123294d0d4c352dd3481382281ce7ab8.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.02734375,
+                0.259765625,
+                0.7760416666666666,
+                0.5791015625
+            ],
+            [
+                0.8255208333333334,
+                0.5673828125,
+                0.9986979166666666,
+                0.78125
+            ]
+        ],
+        "generated_text": "two sting rays swimming in an aquarium next to a rock wall",
+        "prompt_w_label": "two sting rays swimming in an aquarium next to a rock wall, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "two sting rays swimming in an aquarium next to a rock wall, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8590_MOV-4_jpg.rf.1691f0958ffea266daa9011c203cd726.jpg",
+        "label": "jellyfish",
+        "height": 1024,
+        "width": 576,
+        "bboxes": [
+            [
+                0.2777777777777778,
+                0.2216796875,
+                0.5451388888888888,
+                0.421875
+            ]
+        ],
+        "generated_text": "a jellyfish is swimming in the blue water of a pool",
+        "prompt_w_label": "a jellyfish is swimming in the blue water of a pool, jellyfish, height: 1024, width: 576",
+        "prompt_w_suffix": "a jellyfish is swimming in the blue water of a pool, jellyfish, height: 1024, width: 576, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8382_jpg.rf.16103224694c615b4e9c51a6d30dca75.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.298828125,
+                0.20833333333333334,
+                0.48828125,
+                0.6419270833333334
+            ],
+            [
+                0.32421875,
+                0.6002604166666666,
+                0.455078125,
+                0.8880208333333334
+            ],
+            [
+                0.2236328125,
+                0.6484375,
+                0.283203125,
+                0.8359375
+            ],
+            [
+                0.16796875,
+                0.7890625,
+                0.2548828125,
+                0.94921875
+            ],
+            [
+                0.4609375,
+                0.8815104166666666,
+                0.5419921875,
+                0.9986979166666666
+            ],
+            [
+                0.455078125,
+                0.0,
+                0.6259765625,
+                0.21223958333333334
+            ]
+        ],
+        "generated_text": "a fish swimming in a tank with rocks and plants",
+        "prompt_w_label": "a fish swimming in a tank with rocks and plants, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a tank with rocks and plants, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2529_jpeg_jpg.rf.16e64348ddac68d55ee82e98b0258080.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.08723958333333333,
+                0.544921875,
+                0.796875,
+                0.78515625
+            ],
+            [
+                0.4427083333333333,
+                0.130859375,
+                0.84765625,
+                0.3095703125
+            ],
+            [
+                0.0625,
+                0.1787109375,
+                0.2864583333333333,
+                0.244140625
+            ]
+        ],
+        "generated_text": "a penguin swimming in an aquarium with other penguins",
+        "prompt_w_label": "a penguin swimming in an aquarium with other penguins, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in an aquarium with other penguins, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3170_jpeg_jpg.rf.12acc73c5aaf986bf28d119f89015a10.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.24609375,
+                0.337890625,
+                0.8190104166666666,
+                0.9130859375
+            ],
+            [
+                0.4908854166666667,
+                0.041015625,
+                0.5598958333333334,
+                0.1376953125
+            ],
+            [
+                0.6315104166666666,
+                0.0830078125,
+                0.6953125,
+                0.169921875
+            ],
+            [
+                0.5716145833333334,
+                0.060546875,
+                0.62109375,
+                0.126953125
+            ],
+            [
+                0.1796875,
+                0.0947265625,
+                0.23307291666666666,
+                0.1484375
+            ],
+            [
+                0.0,
+                0.0458984375,
+                0.059895833333333336,
+                0.1455078125
+            ]
+        ],
+        "generated_text": "a penguin swimming in the water at the zoo",
+        "prompt_w_label": "a penguin swimming in the water at the zoo, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water at the zoo, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8547_jpg.rf.193f12388061d49793b7742aae33dedb.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.0283203125,
+                0.2838541666666667,
+                0.185546875,
+                0.7486979166666666
+            ],
+            [
+                0.099609375,
+                0.69140625,
+                0.1650390625,
+                0.7799479166666666
+            ],
+            [
+                0.470703125,
+                0.15234375,
+                0.5234375,
+                0.23567708333333334
+            ],
+            [
+                0.8681640625,
+                0.9231770833333334,
+                0.9765625,
+                0.9986979166666666
+            ],
+            [
+                0.5166015625,
+                0.8359375,
+                0.599609375,
+                0.9114583333333334
+            ],
+            [
+                0.87109375,
+                0.0,
+                0.955078125,
+                0.08854166666666667
+            ]
+        ],
+        "generated_text": "a fish swims among corals and other fish in a tank",
+        "prompt_w_label": "a fish swims among corals and other fish in a tank, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish swims among corals and other fish in a tank, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8383_jpg.rf.178ef0bbd25f288422fd08dff1524c3d.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.49609375,
+                0.4934895833333333,
+                0.5810546875,
+                0.8255208333333334
+            ],
+            [
+                0.3271484375,
+                0.33984375,
+                0.4423828125,
+                0.6432291666666666
+            ],
+            [
+                0.2080078125,
+                0.5104166666666666,
+                0.2646484375,
+                0.6809895833333334
+            ],
+            [
+                0.1474609375,
+                0.6380208333333334,
+                0.2333984375,
+                0.7786458333333334
+            ],
+            [
+                0.177734375,
+                0.7903645833333334,
+                0.23828125,
+                0.9518229166666666
+            ]
+        ],
+        "generated_text": "a group of fish swimming in a tank with rocks and plants",
+        "prompt_w_label": "a group of fish swimming in a tank with rocks and plants, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a group of fish swimming in a tank with rocks and plants, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2399_jpeg_jpg.rf.13370408785f27bea59424ce8d46dbca.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.26171875,
+                0.6298828125,
+                0.7135416666666666,
+                0.8818359375
+            ],
+            [
+                0.26953125,
+                0.265625,
+                0.60546875,
+                0.47265625
+            ],
+            [
+                0.10286458333333333,
+                0.19921875,
+                0.18359375,
+                0.306640625
+            ]
+        ],
+        "generated_text": "two fish swimming in an aquarium with coral and other fish",
+        "prompt_w_label": "two fish swimming in an aquarium with coral and other fish, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "two fish swimming in an aquarium with coral and other fish, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8496_MOV-6_jpg.rf.1a2f4660fc24ccab8c1f78b2aa6ca1d3.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 576,
+        "bboxes": [
+            [
+                0.2986111111111111,
+                0.3525390625,
+                0.4131944444444444,
+                0.4326171875
+            ],
+            [
+                0.7621527777777778,
+                0.265625,
+                0.9982638888888888,
+                0.3330078125
+            ],
+            [
+                0.0,
+                0.48046875,
+                0.9982638888888888,
+                0.7119140625
+            ]
+        ],
+        "generated_text": "a group of fish swimming in a tank with rocks and trees",
+        "prompt_w_label": "a group of fish swimming in a tank with rocks and trees, fish, height: 1024, width: 576",
+        "prompt_w_suffix": "a group of fish swimming in a tank with rocks and trees, fish, height: 1024, width: 576, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2554_jpeg_jpg.rf.1ac30f27b030d31a31ec6b2ecdcb9025.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.328125,
+                0.33203125,
+                0.7018229166666666,
+                0.6923828125
+            ]
+        ],
+        "generated_text": "a stingray swimming in an aquarium with a fish and plants",
+        "prompt_w_label": "a stingray swimming in an aquarium with a fish and plants, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a stingray swimming in an aquarium with a fish and plants, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8572_MOV-0_jpg.rf.1a301d11ffdd3cb15653d44ea193ff1e.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 576,
+        "bboxes": [
+            [
+                0.0,
+                0.17578125,
+                0.7361111111111112,
+                0.423828125
+            ]
+        ],
+        "generated_text": "a shark swimming in the dark water near a coral reef",
+        "prompt_w_label": "a shark swimming in the dark water near a coral reef, shark, height: 1024, width: 576",
+        "prompt_w_suffix": "a shark swimming in the dark water near a coral reef, shark, height: 1024, width: 576, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2513_jpeg_jpg.rf.1c33f6aee29f24622179b3c188effe59.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.2877604166666667,
+                0.0673828125,
+                0.8658854166666666,
+                0.201171875
+            ]
+        ],
+        "generated_text": "a shark swimming in an aquarium with a plant and rocks",
+        "prompt_w_label": "a shark swimming in an aquarium with a plant and rocks, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in an aquarium with a plant and rocks, shark, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8575_jpg.rf.1cf3080cdc0d1afae6f57dbd147c9e3c.jpg",
+        "label": "shark",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.0,
+                0.421875,
+                0.9716796875,
+                0.87890625
+            ]
+        ],
+        "generated_text": "a shark swimming in a tank with a glass wall",
+        "prompt_w_label": "a shark swimming in a tank with a glass wall, shark, height: 768, width: 1024",
+        "prompt_w_suffix": "a shark swimming in a tank with a glass wall, shark, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2327_jpeg_jpg.rf.23ca4add8919548516415c9fe02eedf6.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.12369791666666667,
+                0.650390625,
+                0.69921875,
+                0.9560546875
+            ],
+            [
+                0.2630208333333333,
+                0.5068359375,
+                0.5247395833333334,
+                0.6005859375
+            ]
+        ],
+        "generated_text": "two penguins swimming in an aquarium with a large rock",
+        "prompt_w_label": "two penguins swimming in an aquarium with a large rock, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "two penguins swimming in an aquarium with a large rock, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2551_jpeg_jpg.rf.23441fda11b9de7fa39fb0a2ea3e7f4a.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.5182291666666666,
+                0.4462890625,
+                0.8177083333333334,
+                0.69921875
+            ]
+        ],
+        "generated_text": "a stingray is swimming in a fish tank with plants",
+        "prompt_w_label": "a stingray is swimming in a fish tank with plants, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a stingray is swimming in a fish tank with plants, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2360_jpeg_jpg.rf.1f04ed9c5472f410de3263510a5de6dd.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.20442708333333334,
+                0.427734375,
+                0.4752604166666667,
+                0.630859375
+            ],
+            [
+                0.3502604166666667,
+                0.689453125,
+                0.76171875,
+                0.884765625
+            ],
+            [
+                0.11458333333333333,
+                0.658203125,
+                0.2903645833333333,
+                0.7529296875
+            ],
+            [
+                0.17317708333333334,
+                0.2958984375,
+                0.421875,
+                0.3779296875
+            ]
+        ],
+        "generated_text": "a group of fish swimming in a tank next to a rock wall",
+        "prompt_w_label": "a group of fish swimming in a tank next to a rock wall, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of fish swimming in a tank next to a rock wall, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8570_jpg.rf.22a9bfaa76e035e692aaac3a49df03b8.jpg",
+        "label": "shark",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.2900390625,
+                0.0,
+                0.4990234375,
+                0.609375
+            ]
+        ],
+        "generated_text": "a shark swimming in a tank with rocks and plants",
+        "prompt_w_label": "a shark swimming in a tank with rocks and plants, shark, height: 768, width: 1024",
+        "prompt_w_suffix": "a shark swimming in a tank with rocks and plants, shark, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2410_jpeg_jpg.rf.28e599148c43192990cc399a4940f016.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.4921875,
+                0.4873046875,
+                0.72265625,
+                0.6474609375
+            ],
+            [
+                0.796875,
+                0.1435546875,
+                0.90625,
+                0.193359375
+            ]
+        ],
+        "generated_text": "a fish swimming in an aquarium with corals and rocks",
+        "prompt_w_label": "a fish swimming in an aquarium with corals and rocks, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish swimming in an aquarium with corals and rocks, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2324_jpeg_jpg.rf.1f5efa1adc71c46d5037bdcd281056b9.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.6341145833333334,
+                0.4345703125,
+                0.9986979166666666,
+                0.5712890625
+            ],
+            [
+                0.037760416666666664,
+                0.4892578125,
+                0.2981770833333333,
+                0.556640625
+            ]
+        ],
+        "generated_text": "a penguin swimming in the water near a rock wall",
+        "prompt_w_label": "a penguin swimming in the water near a rock wall, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water near a rock wall, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3186_jpeg_jpg.rf.27529a442577197646428640172a7920.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.73046875,
+                0.5947265625,
+                0.859375,
+                0.712890625
+            ],
+            [
+                0.3932291666666667,
+                0.458984375,
+                0.5091145833333334,
+                0.544921875
+            ],
+            [
+                0.296875,
+                0.646484375,
+                0.4466145833333333,
+                0.7265625
+            ],
+            [
+                0.24088541666666666,
+                0.37109375,
+                0.3450520833333333,
+                0.4404296875
+            ],
+            [
+                0.69921875,
+                0.7919921875,
+                0.796875,
+                0.8505859375
+            ]
+        ],
+        "generated_text": "a fish tank with a lot of plants and rocks in it",
+        "prompt_w_label": "a fish tank with a lot of plants and rocks in it, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish tank with a lot of plants and rocks in it, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8517_MOV-0_jpg.rf.1cd69226c4111a502f5018a4ff6bd886.jpg",
+        "label": "fish",
+        "height": 576,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.0703125,
+                0.2725694444444444,
+                0.2763671875,
+                0.5503472222222222
+            ],
+            [
+                0.576171875,
+                0.3055555555555556,
+                0.7490234375,
+                0.4878472222222222
+            ],
+            [
+                0.154296875,
+                0.09722222222222222,
+                0.24609375,
+                0.2777777777777778
+            ],
+            [
+                0.6474609375,
+                0.0,
+                0.896484375,
+                0.13020833333333334
+            ],
+            [
+                0.822265625,
+                0.001736111111111111,
+                0.9091796875,
+                0.0798611111111111
+            ],
+            [
+                0.650390625,
+                0.4461805555555556,
+                0.734375,
+                0.5625
+            ]
+        ],
+        "generated_text": "a group of fish swimming in a tank with coral and rocks",
+        "prompt_w_label": "a group of fish swimming in a tank with coral and rocks, fish, height: 576, width: 1024",
+        "prompt_w_suffix": "a group of fish swimming in a tank with coral and rocks, fish, height: 576, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2528_jpeg_jpg.rf.2bd17b3a6751de79eab0f91356230d98.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.44921875,
+                0.3974609375,
+                0.8932291666666666,
+                0.587890625
+            ],
+            [
+                0.20963541666666666,
+                0.4970703125,
+                0.4518229166666667,
+                0.5595703125
+            ]
+        ],
+        "generated_text": "a penguin swimming in the water near rocks and a waterfall",
+        "prompt_w_label": "a penguin swimming in the water near rocks and a waterfall, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water near rocks and a waterfall, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2552_jpeg_jpg.rf.2bfc6840f21295db87e9e56956f16e76.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.5794270833333334,
+                0.275390625,
+                0.8359375,
+                0.6357421875
+            ]
+        ],
+        "generated_text": "a fish in an aquarium with some grass and rocks",
+        "prompt_w_label": "a fish in an aquarium with some grass and rocks, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish in an aquarium with some grass and rocks, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3146_jpeg_jpg.rf.2a4d1b21ca18859f03d310845ee1a426.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.22395833333333334,
+                0.3818359375,
+                0.6614583333333334,
+                0.7001953125
+            ]
+        ],
+        "generated_text": "a puffin swimming in a pool of water",
+        "prompt_w_label": "a puffin swimming in a pool of water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in a pool of water, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2376_jpeg_jpg.rf.238955f6c2fbed6cd8b508f1b61f84de.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3971354166666667,
+                0.484375,
+                0.5807291666666666,
+                0.671875
+            ]
+        ],
+        "generated_text": "a starfish is swimming in an aquarium with rocks and plants",
+        "prompt_w_label": "a starfish is swimming in an aquarium with rocks and plants, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a starfish is swimming in an aquarium with rocks and plants, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2409_jpeg_jpg.rf.2de52b31d07502007ce8e96350212d7c.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.34375,
+                0.40234375,
+                0.8880208333333334,
+                0.703125
+            ]
+        ],
+        "generated_text": "a black and white striped fish swimming in an aquarium",
+        "prompt_w_label": "a black and white striped fish swimming in an aquarium, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a black and white striped fish swimming in an aquarium, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8486_jpg.rf.3000bc7c3b4d2df476eea138b9682116.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.328125,
+                0.5169270833333334,
+                0.5322265625,
+                0.6731770833333334
+            ],
+            [
+                0.6162109375,
+                0.4557291666666667,
+                0.7236328125,
+                0.5520833333333334
+            ],
+            [
+                0.595703125,
+                0.3307291666666667,
+                0.71875,
+                0.3841145833333333
+            ]
+        ],
+        "generated_text": "a fish in an aquarium with a sign that says \"fish\"",
+        "prompt_w_label": "a fish in an aquarium with a sign that says \"fish\", fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish in an aquarium with a sign that says \"fish\", fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2412_jpeg_jpg.rf.31034ae005fc4ba75a20f94f91e4bbc5.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.15755208333333334,
+                0.3916015625,
+                0.9986979166666666,
+                0.7138671875
+            ],
+            [
+                0.049479166666666664,
+                0.2392578125,
+                0.8763020833333334,
+                0.4609375
+            ]
+        ],
+        "generated_text": "two fish swimming in a tank with a large piece of cloth",
+        "prompt_w_label": "two fish swimming in a tank with a large piece of cloth, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "two fish swimming in a tank with a large piece of cloth, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3156_jpeg_jpg.rf.330ea62dfe1c5108c408331acc17cd6a.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.46484375,
+                0.28125,
+                0.6940104166666666,
+                0.38671875
+            ]
+        ],
+        "generated_text": "a puffin swimming in an aquarium with rocks and a waterfall",
+        "prompt_w_label": "a puffin swimming in an aquarium with rocks and a waterfall, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in an aquarium with rocks and a waterfall, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2417_jpeg_jpg.rf.3126d833b440a93a98942375d5de1a91.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.17578125,
+                0.40234375,
+                1.0,
+                0.7080078125
+            ],
+            [
+                0.2955729166666667,
+                0.208984375,
+                1.0,
+                0.4990234375
+            ],
+            [
+                0.0,
+                0.73828125,
+                0.16015625,
+                0.888671875
+            ],
+            [
+                0.17317708333333334,
+                0.45703125,
+                0.5221354166666666,
+                0.56640625
+            ]
+        ],
+        "generated_text": "two fish swimming in an aquarium with rocks and a cave",
+        "prompt_w_label": "two fish swimming in an aquarium with rocks and a cave, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "two fish swimming in an aquarium with rocks and a cave, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8578_MOV-2_jpg.rf.2e5101d836971fa36cc0876c718069bb.jpg",
+        "label": "fish",
+        "height": 576,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.171875,
+                0.3402777777777778,
+                0.6962890625,
+                0.7256944444444444
+            ],
+            [
+                0.0009765625,
+                0.13194444444444445,
+                0.3720703125,
+                0.4201388888888889
+            ]
+        ],
+        "generated_text": "two fish swimming in the dark water of a tank",
+        "prompt_w_label": "two fish swimming in the dark water of a tank, fish, height: 576, width: 1024",
+        "prompt_w_suffix": "two fish swimming in the dark water of a tank, fish, height: 576, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2290_jpeg_jpg.rf.3698fd48defd03b2550f7ba8b68314ee.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.2903645833333333,
+                0.302734375,
+                0.8763020833333334,
+                0.6884765625
+            ]
+        ],
+        "generated_text": "a puffin flying over a rocky cliff in the water",
+        "prompt_w_label": "a puffin flying over a rocky cliff in the water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin flying over a rocky cliff in the water, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2389_jpeg_jpg.rf.3659b6446ca8e6cc9caea6f862cb7c64.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.2578125,
+                0.4169921875,
+                0.65625,
+                0.6611328125
+            ]
+        ],
+        "generated_text": "a starfish is sitting on a rock in an aquarium",
+        "prompt_w_label": "a starfish is sitting on a rock in an aquarium, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a starfish is sitting on a rock in an aquarium, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2527_jpeg_jpg.rf.3de0e3c95781ea109647310c017ca1fc.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.33984375,
+                0.412109375,
+                0.8815104166666666,
+                0.64453125
+            ],
+            [
+                0.21875,
+                0.48828125,
+                0.3723958333333333,
+                0.568359375
+            ]
+        ],
+        "generated_text": "a penguin swimming in the water near some rocks",
+        "prompt_w_label": "a penguin swimming in the water near some rocks, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water near some rocks, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3182_jpeg_jpg.rf.3e85376545651810d891af33d25e6bcf.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.09505208333333333,
+                0.3564453125,
+                0.2552083333333333,
+                0.541015625
+            ],
+            [
+                0.6302083333333334,
+                0.591796875,
+                0.79296875,
+                0.7734375
+            ]
+        ],
+        "generated_text": "a group of starfish are swimming in an aquarium near a rock",
+        "prompt_w_label": "a group of starfish are swimming in an aquarium near a rock, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of starfish are swimming in an aquarium near a rock, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8560_jpg.rf.44a3f330855373c73485e4909aedabaa.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.3134765625,
+                0.109375,
+                0.6796875,
+                0.9713541666666666
+            ],
+            [
+                0.5634765625,
+                0.1171875,
+                0.689453125,
+                0.2513020833333333
+            ],
+            [
+                0.6494140625,
+                0.7044270833333334,
+                0.7685546875,
+                1.0
+            ]
+        ],
+        "generated_text": "a large fish in an aquarium with other fish and plants",
+        "prompt_w_label": "a large fish in an aquarium with other fish and plants, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a large fish in an aquarium with other fish and plants, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8378_jpg.rf.406b5fbdf5f05598549ed90bab244ad4.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.4736328125,
+                0.5390625,
+                0.6103515625,
+                0.8658854166666666
+            ],
+            [
+                0.4404296875,
+                0.3203125,
+                0.5712890625,
+                0.5052083333333334
+            ],
+            [
+                0.232421875,
+                0.3033854166666667,
+                0.2841796875,
+                0.4153645833333333
+            ],
+            [
+                0.509765625,
+                0.8098958333333334,
+                0.55859375,
+                0.8880208333333334
+            ],
+            [
+                0.29296875,
+                0.3125,
+                0.3740234375,
+                0.3723958333333333
+            ],
+            [
+                0.6064453125,
+                0.014322916666666666,
+                0.693359375,
+                0.13020833333333334
+            ]
+        ],
+        "generated_text": "a fish swimming in a large tank with rocks and other fish",
+        "prompt_w_label": "a fish swimming in a large tank with rocks and other fish, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a large tank with rocks and other fish, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2385_jpeg_jpg.rf.401926de349287bb4d9152d065e9a822.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.078125,
+                0.404296875,
+                0.9388020833333334,
+                0.7763671875
+            ],
+            [
+                0.4986979166666667,
+                0.7841796875,
+                0.7278645833333334,
+                1.0
+            ]
+        ],
+        "generated_text": "a fish swimming in an aquarium next to a rock wall",
+        "prompt_w_label": "a fish swimming in an aquarium next to a rock wall, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish swimming in an aquarium next to a rock wall, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2331_jpeg_jpg.rf.430bebeabaa960aedfce00821dbf1823.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.0,
+                0.1875,
+                0.33203125,
+                0.521484375
+            ],
+            [
+                0.3190104166666667,
+                0.599609375,
+                0.6315104166666666,
+                0.6953125
+            ]
+        ],
+        "generated_text": "two penguins swimming in an aquarium with a large rock",
+        "prompt_w_label": "two penguins swimming in an aquarium with a large rock, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "two penguins swimming in an aquarium with a large rock, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2641_jpeg_jpg.rf.3fc4fead3495733a8298ef199058794b.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.2265625,
+                0.3701171875,
+                0.7682291666666666,
+                0.6123046875
+            ]
+        ],
+        "generated_text": "a stingray swimming in an aquarium with rocks and a cave",
+        "prompt_w_label": "a stingray swimming in an aquarium with rocks and a cave, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a stingray swimming in an aquarium with rocks and a cave, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2511_jpeg_jpg.rf.4593a8e1ea4e285da455b895a36fa2c7.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.09895833333333333,
+                0.3291015625,
+                0.71875,
+                0.724609375
+            ]
+        ],
+        "generated_text": "a shark swimming in an aquarium with rocks and other fish",
+        "prompt_w_label": "a shark swimming in an aquarium with rocks and other fish, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in an aquarium with rocks and other fish, shark, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8512_MOV-0_jpg.rf.44c1fce444824e3210a1d6bb59580432.jpg",
+        "label": "fish",
+        "height": 576,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.6435546875,
+                0.359375,
+                0.6953125,
+                0.4027777777777778
+            ],
+            [
+                0.6748046875,
+                0.2586805555555556,
+                0.7294921875,
+                0.3090277777777778
+            ],
+            [
+                0.7138671875,
+                0.3020833333333333,
+                0.7548828125,
+                0.3472222222222222
+            ],
+            [
+                0.796875,
+                0.328125,
+                0.84765625,
+                0.3663194444444444
+            ],
+            [
+                0.83203125,
+                0.3315972222222222,
+                0.8740234375,
+                0.3767361111111111
+            ]
+        ],
+        "generated_text": "a fish swimming in a tank with a lot of plants",
+        "prompt_w_label": "a fish swimming in a tank with a lot of plants, fish, height: 576, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a tank with a lot of plants, fish, height: 576, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2285_jpeg_jpg.rf.4a93d99b9f0b6cccfb27bf2f4a13b99e.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.24739583333333334,
+                0.30078125,
+                0.4088541666666667,
+                0.4580078125
+            ],
+            [
+                0.14322916666666666,
+                0.3095703125,
+                0.23828125,
+                0.451171875
+            ],
+            [
+                0.5,
+                0.33203125,
+                0.71875,
+                0.52734375
+            ]
+        ],
+        "generated_text": "a group of puffins sitting on a rock in a pond",
+        "prompt_w_label": "a group of puffins sitting on a rock in a pond, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of puffins sitting on a rock in a pond, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2520_jpeg_jpg.rf.4cab9c74da59c93865ed205f4dcf8c46.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.17838541666666666,
+                0.306640625,
+                0.4635416666666667,
+                0.4794921875
+            ]
+        ],
+        "generated_text": "a puffin swimming in a tank next to a rock wall",
+        "prompt_w_label": "a puffin swimming in a tank next to a rock wall, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in a tank next to a rock wall, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2295_jpeg_jpg.rf.498a525f58666743ef5d65b7f6438adc.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.44921875,
+                0.419921875,
+                0.7526041666666666,
+                0.51953125
+            ]
+        ],
+        "generated_text": "a puffin swimming in the water near a large rock formation",
+        "prompt_w_label": "a puffin swimming in the water near a large rock formation, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in the water near a large rock formation, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2610_jpeg_jpg.rf.4d5cf5cfdceb7dee102fe730fc1f6776.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.37890625,
+                0.333984375,
+                0.67578125,
+                0.625
+            ]
+        ],
+        "generated_text": "a starfish is sitting in a tank with plants and rocks",
+        "prompt_w_label": "a starfish is sitting in a tank with plants and rocks, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a starfish is sitting in a tank with plants and rocks, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2296_jpeg_jpg.rf.56a86afeeeb9a6c12746f77b7346ff19.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.4153645833333333,
+                0.1162109375,
+                0.6653645833333334,
+                0.220703125
+            ],
+            [
+                0.5963541666666666,
+                0.552734375,
+                0.8424479166666666,
+                0.6494140625
+            ]
+        ],
+        "generated_text": "a couple of a couple of puffins swimming in the water",
+        "prompt_w_label": "a couple of a couple of puffins swimming in the water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a couple of a couple of puffins swimming in the water, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2655_jpeg_jpg.rf.500bca587eb20e6e80acbea6f60ebd40.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3671875,
+                0.224609375,
+                0.5572916666666666,
+                0.3369140625
+            ],
+            [
+                0.3580729166666667,
+                0.41015625,
+                0.5598958333333334,
+                0.5263671875
+            ]
+        ],
+        "generated_text": "a man standing in an aquarium looking at a fish",
+        "prompt_w_label": "a man standing in an aquarium looking at a fish, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a man standing in an aquarium looking at a fish, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2282_jpeg_jpg.rf.510f3bc14c3e0aa378b192199d01cae6.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.41015625,
+                0.412109375,
+                0.7877604166666666,
+                0.5537109375
+            ]
+        ],
+        "generated_text": "a puffin swimming in a pool of water next to a rock wall",
+        "prompt_w_label": "a puffin swimming in a pool of water next to a rock wall, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in a pool of water next to a rock wall, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2507_jpeg_jpg.rf.51612d3065ddd5d951909ca543e84bb7.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.4973958333333333,
+                0.423828125,
+                0.7317708333333334,
+                0.6669921875
+            ]
+        ],
+        "generated_text": "a shark swimming in the ocean near some rocks and plants",
+        "prompt_w_label": "a shark swimming in the ocean near some rocks and plants, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in the ocean near some rocks and plants, shark, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2393_jpeg_jpg.rf.51a3d165da3aac4466f89c834fa6532e.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.8372395833333334,
+                0.1396484375,
+                1.0,
+                0.3916015625
+            ],
+            [
+                0.27734375,
+                0.4375,
+                0.6809895833333334,
+                0.6455078125
+            ]
+        ],
+        "generated_text": "a group of fish swimming in an aquarium with a coral reef",
+        "prompt_w_label": "a group of fish swimming in an aquarium with a coral reef, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of fish swimming in an aquarium with a coral reef, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8329_jpg.rf.50153f721ac528f1e0025402e67d263e.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.3564453125,
+                0.0,
+                0.787109375,
+                0.6744791666666666
+            ],
+            [
+                0.7060546875,
+                0.0,
+                0.94140625,
+                0.4166666666666667
+            ]
+        ],
+        "generated_text": "a fish swimming in a tank with a bunch of rocks",
+        "prompt_w_label": "a fish swimming in a tank with a bunch of rocks, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a tank with a bunch of rocks, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2472_jpeg_jpg.rf.57b8e38dd12bf9a9b8cb87e5f49b072d.jpg",
+        "label": "jellyfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.4518229166666667,
+                0.072265625,
+                0.5455729166666666,
+                0.2529296875
+            ],
+            [
+                0.70703125,
+                0.6591796875,
+                0.9466145833333334,
+                0.83203125
+            ],
+            [
+                0.15885416666666666,
+                0.1611328125,
+                0.3606770833333333,
+                0.302734375
+            ],
+            [
+                0.52734375,
+                0.4228515625,
+                0.66796875,
+                0.5361328125
+            ],
+            [
+                0.5703125,
+                0.66796875,
+                0.7174479166666666,
+                0.7509765625
+            ],
+            [
+                0.11848958333333333,
+                0.640625,
+                0.3723958333333333,
+                0.7421875
+            ]
+        ],
+        "generated_text": "a group of jellyfish swimming in the ocean under a blue sky",
+        "prompt_w_label": "a group of jellyfish swimming in the ocean under a blue sky, jellyfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of jellyfish swimming in the ocean under a blue sky, jellyfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2643_jpeg_jpg.rf.5a7752897b56469837e946255d67337d.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.0,
+                0.2939453125,
+                0.8919270833333334,
+                1.0
+            ]
+        ],
+        "generated_text": "a shark swimming in an aquarium with a plant in the background",
+        "prompt_w_label": "a shark swimming in an aquarium with a plant in the background, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in an aquarium with a plant in the background, shark, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8535_MOV-3_jpg.rf.5b8daac9353f088bac733681586e1450.jpg",
+        "label": "puffin",
+        "height": 576,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.6416015625,
+                0.6145833333333334,
+                0.7333984375,
+                0.8125
+            ],
+            [
+                0.8466796875,
+                0.84375,
+                0.970703125,
+                0.9982638888888888
+            ],
+            [
+                0.3515625,
+                0.2586805555555556,
+                0.4267578125,
+                0.3697916666666667
+            ],
+            [
+                0.8837890625,
+                0.2986111111111111,
+                0.9677734375,
+                0.3871527777777778
+            ]
+        ],
+        "generated_text": "a group of puffins are sitting on rocks in a cave",
+        "prompt_w_label": "a group of puffins are sitting on rocks in a cave, puffin, height: 576, width: 1024",
+        "prompt_w_suffix": "a group of puffins are sitting on rocks in a cave, puffin, height: 576, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8470_jpg.rf.5c11524bbae1866b8f848725d86d5142.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.408203125,
+                0.06380208333333333,
+                0.48046875,
+                0.3125
+            ],
+            [
+                0.2646484375,
+                0.26171875,
+                0.392578125,
+                0.546875
+            ],
+            [
+                0.2900390625,
+                0.546875,
+                0.4775390625,
+                0.6953125
+            ],
+            [
+                0.189453125,
+                0.6888020833333334,
+                0.51171875,
+                1.0
+            ]
+        ],
+        "generated_text": "a group of fish swimming in a tank with a blue light",
+        "prompt_w_label": "a group of fish swimming in a tank with a blue light, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a group of fish swimming in a tank with a blue light, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2330_jpeg_jpg.rf.5d358782dd868884a99f4f88841d2287.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.19661458333333334,
+                0.42578125,
+                0.4921875,
+                0.6123046875
+            ]
+        ],
+        "generated_text": "a penguin swimming in an aquarium with a rock wall behind it",
+        "prompt_w_label": "a penguin swimming in an aquarium with a rock wall behind it, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in an aquarium with a rock wall behind it, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8590_MOV-1_jpg.rf.5e5c650f344f8d835e04f867c6496953.jpg",
+        "label": "jellyfish",
+        "height": 1024,
+        "width": 576,
+        "bboxes": [
+            [
+                0.13368055555555555,
+                0.1611328125,
+                0.5503472222222222,
+                0.4501953125
+            ],
+            [
+                0.4878472222222222,
+                0.37109375,
+                0.890625,
+                0.5615234375
+            ],
+            [
+                0.12152777777777778,
+                0.46484375,
+                0.3489583333333333,
+                0.6494140625
+            ],
+            [
+                0.0,
+                0.3486328125,
+                0.10590277777777778,
+                0.498046875
+            ],
+            [
+                0.8993055555555556,
+                0.6904296875,
+                0.9982638888888888,
+                0.78125
+            ],
+            [
+                0.5277777777777778,
+                0.830078125,
+                0.6892361111111112,
+                0.9091796875
+            ]
+        ],
+        "generated_text": "a group of jellyfish swimming in a blue ocean with a blue sky",
+        "prompt_w_label": "a group of jellyfish swimming in a blue ocean with a blue sky, jellyfish, height: 1024, width: 576",
+        "prompt_w_suffix": "a group of jellyfish swimming in a blue ocean with a blue sky, jellyfish, height: 1024, width: 576, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8552_jpg.rf.61ac5f24f64530252d883e103a66c807.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.5986328125,
+                0.3893229166666667,
+                0.9560546875,
+                0.8151041666666666
+            ],
+            [
+                0.189453125,
+                0.3125,
+                0.47265625,
+                0.5572916666666666
+            ]
+        ],
+        "generated_text": "a group of people looking at a large fish tank with fish in it",
+        "prompt_w_label": "a group of people looking at a large fish tank with fish in it, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a group of people looking at a large fish tank with fish in it, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2518_jpeg_jpg.rf.5f4e0d8f980eaa632ff94853995eff9e.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.4388020833333333,
+                0.25390625,
+                0.9283854166666666,
+                0.423828125
+            ],
+            [
+                0.13802083333333334,
+                0.6083984375,
+                0.5247395833333334,
+                0.7587890625
+            ]
+        ],
+        "generated_text": "two sharks swimming in an aquarium with rocks and a large screen",
+        "prompt_w_label": "two sharks swimming in an aquarium with rocks and a large screen, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "two sharks swimming in an aquarium with rocks and a large screen, shark, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2553_jpeg_jpg.rf.631441b6872f3849ab9f75da6176af0a.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.43359375,
+                0.2490234375,
+                0.77734375,
+                0.7080078125
+            ]
+        ],
+        "generated_text": "a fish swimming in a tank with tall grass and rocks",
+        "prompt_w_label": "a fish swimming in a tank with tall grass and rocks, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish swimming in a tank with tall grass and rocks, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2390_jpeg_jpg.rf.64fe0a0c9bb0459e06335b75d455ffb2.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.17578125,
+                0.4560546875,
+                0.8424479166666666,
+                0.791015625
+            ]
+        ],
+        "generated_text": "a starfish is sitting in an aquarium with rocks and gravel",
+        "prompt_w_label": "a starfish is sitting in an aquarium with rocks and gravel, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a starfish is sitting in an aquarium with rocks and gravel, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2540_jpeg_jpg.rf.648b31d1066b616be81fb9447de85358.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3880208333333333,
+                0.3154296875,
+                0.7291666666666666,
+                0.6923828125
+            ]
+        ],
+        "generated_text": "a starfish is on a rock in the ocean",
+        "prompt_w_label": "a starfish is on a rock in the ocean, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a starfish is on a rock in the ocean, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8517_MOV-5_jpg.rf.62a10beba8fe770a302dec33a3188215.jpg",
+        "label": "fish",
+        "height": 576,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.6123046875,
+                0.625,
+                0.83203125,
+                0.9565972222222222
+            ],
+            [
+                0.7197265625,
+                0.0954861111111111,
+                0.865234375,
+                0.2795138888888889
+            ],
+            [
+                0.0654296875,
+                0.8263888888888888,
+                0.2236328125,
+                0.9982638888888888
+            ],
+            [
+                0.658203125,
+                0.003472222222222222,
+                0.75,
+                0.1701388888888889
+            ],
+            [
+                0.1474609375,
+                0.3784722222222222,
+                0.2626953125,
+                0.5329861111111112
+            ],
+            [
+                0.0380859375,
+                0.2951388888888889,
+                0.12109375,
+                0.4461805555555556
+            ]
+        ],
+        "generated_text": "a group of fish swimming in an aquarium with coral",
+        "prompt_w_label": "a group of fish swimming in an aquarium with coral, fish, height: 576, width: 1024",
+        "prompt_w_suffix": "a group of fish swimming in an aquarium with coral, fish, height: 576, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2508_jpeg_jpg.rf.6341e9035957fcc1420ec41cd9176b7a.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.2786458333333333,
+                0.4921875,
+                0.7122395833333334,
+                0.7001953125
+            ]
+        ],
+        "generated_text": "a shark swimming in an aquarium with a plant and rocks",
+        "prompt_w_label": "a shark swimming in an aquarium with a plant and rocks, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in an aquarium with a plant and rocks, shark, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2311_jpeg_jpg.rf.69797c0319ca881b5c5bc7637e9e7aa7.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.07942708333333333,
+                0.37890625,
+                0.9192708333333334,
+                0.693359375
+            ]
+        ],
+        "generated_text": "a penguin swimming in an aquarium with rocks and a waterfall",
+        "prompt_w_label": "a penguin swimming in an aquarium with rocks and a waterfall, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in an aquarium with rocks and a waterfall, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2373_jpeg_jpg.rf.6b8f32a68ab7d25ff0cd7f977bd187fc.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.2981770833333333,
+                0.4443359375,
+                0.60546875,
+                0.630859375
+            ]
+        ],
+        "generated_text": "a starfish is sitting on a rock in an aquarium",
+        "prompt_w_label": "a starfish is sitting on a rock in an aquarium, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a starfish is sitting on a rock in an aquarium, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8527_jpg.rf.665beee325377633012877f4180dc95e.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.380859375,
+                0.34375,
+                0.5869140625,
+                0.4479166666666667
+            ],
+            [
+                0.396484375,
+                0.4244791666666667,
+                0.5703125,
+                0.59375
+            ],
+            [
+                0.2744140625,
+                0.5247395833333334,
+                0.4638671875,
+                0.6158854166666666
+            ],
+            [
+                0.2294921875,
+                0.3580729166666667,
+                0.33984375,
+                0.4856770833333333
+            ],
+            [
+                0.1943359375,
+                0.5442708333333334,
+                0.314453125,
+                0.7721354166666666
+            ],
+            [
+                0.224609375,
+                0.5651041666666666,
+                0.466796875,
+                0.6796875
+            ]
+        ],
+        "generated_text": "a group of fish swimming in an aquarium with rocks and gravel",
+        "prompt_w_label": "a group of fish swimming in an aquarium with rocks and gravel, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a group of fish swimming in an aquarium with rocks and gravel, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8520_jpg.rf.68bab0b4a111aa5bdad529f65b21edfd.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.3447265625,
+                0.3984375,
+                0.4453125,
+                0.5481770833333334
+            ]
+        ],
+        "generated_text": "a close up of a clown fish swimming in a coral reef",
+        "prompt_w_label": "a close up of a clown fish swimming in a coral reef, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a close up of a clown fish swimming in a coral reef, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3151_jpeg_jpg.rf.6850702bb295c76afc9dd667b8d827dc.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.35546875,
+                0.4560546875,
+                0.6419270833333334,
+                0.5654296875
+            ],
+            [
+                0.5416666666666666,
+                0.1650390625,
+                0.6588541666666666,
+                0.2587890625
+            ]
+        ],
+        "generated_text": "a puffin swimming in a pool next to a waterfall",
+        "prompt_w_label": "a puffin swimming in a pool next to a waterfall, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in a pool next to a waterfall, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8572_MOV-2_jpg.rf.70025aa545c1d5039981b13562400636.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 576,
+        "bboxes": [
+            [
+                0.0,
+                0.4580078125,
+                0.9982638888888888,
+                0.9033203125
+            ]
+        ],
+        "generated_text": "a shark swimming in the water with a light shining on it",
+        "prompt_w_label": "a shark swimming in the water with a light shining on it, shark, height: 1024, width: 576",
+        "prompt_w_suffix": "a shark swimming in the water with a light shining on it, shark, height: 1024, width: 576, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2538_jpeg_jpg.rf.7116cb3e914a23960371143381cd5e15.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3463541666666667,
+                0.1015625,
+                0.6106770833333334,
+                0.361328125
+            ],
+            [
+                0.48046875,
+                0.689453125,
+                0.66015625,
+                0.8701171875
+            ]
+        ],
+        "generated_text": "two starfish are sitting on a rock in an aquarium",
+        "prompt_w_label": "two starfish are sitting on a rock in an aquarium, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "two starfish are sitting on a rock in an aquarium, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2413_jpeg_jpg.rf.695815e23abdea80c043bb1cfd5a8a73.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.0,
+                0.232421875,
+                0.9114583333333334,
+                0.525390625
+            ],
+            [
+                0.19270833333333334,
+                0.75390625,
+                0.6236979166666666,
+                0.95703125
+            ],
+            [
+                0.5690104166666666,
+                0.5849609375,
+                0.9986979166666666,
+                0.7734375
+            ]
+        ],
+        "generated_text": "a group of fish swimming in a large aquarium with a light shining on them",
+        "prompt_w_label": "a group of fish swimming in a large aquarium with a light shining on them, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of fish swimming in a large aquarium with a light shining on them, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3125_jpeg_jpg.rf.6c100391f99fd177741c11b928b7a61c.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.21354166666666666,
+                0.37109375,
+                0.8190104166666666,
+                0.6142578125
+            ]
+        ],
+        "generated_text": "a fish and a starfish in a fish tank with rocks",
+        "prompt_w_label": "a fish and a starfish in a fish tank with rocks, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish and a starfish in a fish tank with rocks, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2516_jpeg_jpg.rf.6f719df754865fe6166afd0a3a78d60f.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.4322916666666667,
+                0.4462890625,
+                0.6341145833333334,
+                0.595703125
+            ]
+        ],
+        "generated_text": "a shark swimming in an aquarium with rocks and coral",
+        "prompt_w_label": "a shark swimming in an aquarium with rocks and coral, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in an aquarium with rocks and coral, shark, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2627_jpeg_jpg.rf.71ea24ceb65b886d6f148dbd31f451d1.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.16536458333333334,
+                0.2490234375,
+                0.7734375,
+                0.796875
+            ]
+        ],
+        "generated_text": "a sting ray is swimming in a tank with rocks and plants",
+        "prompt_w_label": "a sting ray is swimming in a tank with rocks and plants, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a sting ray is swimming in a tank with rocks and plants, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8468_jpg.rf.6a748d130991418e3da8737f17ba5e73.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.3388671875,
+                0.22786458333333334,
+                0.470703125,
+                0.5247395833333334
+            ],
+            [
+                0.517578125,
+                0.0013020833333333333,
+                0.595703125,
+                0.20703125
+            ],
+            [
+                0.3564453125,
+                0.5729166666666666,
+                0.4921875,
+                0.7786458333333334
+            ]
+        ],
+        "generated_text": "a blue light is shining on a coral reef",
+        "prompt_w_label": "a blue light is shining on a coral reef, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a blue light is shining on a coral reef, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2503_jpeg_jpg.rf.726342a02d92d30abc147f6e71fe3baf.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.2799479166666667,
+                0.341796875,
+                0.7330729166666666,
+                0.861328125
+            ]
+        ],
+        "generated_text": "a shark swimming in an aquarium with rocks and plants",
+        "prompt_w_label": "a shark swimming in an aquarium with rocks and plants, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in an aquarium with rocks and plants, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2539_jpeg_jpg.rf.74889d874e69af524f714f420772ecc7.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3177083333333333,
+                0.125,
+                0.6158854166666666,
+                0.3916015625
+            ],
+            [
+                0.4765625,
+                0.7255859375,
+                0.671875,
+                0.9248046875
+            ]
+        ],
+        "generated_text": "two starfish are swimming in an aquarium with rocks and plants",
+        "prompt_w_label": "two starfish are swimming in an aquarium with rocks and plants, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "two starfish are swimming in an aquarium with rocks and plants, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3187_jpeg_jpg.rf.78bcf0210ca5e1fc46e9104fc27d60f7.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.17708333333333334,
+                0.0185546875,
+                0.46875,
+                0.2958984375
+            ],
+            [
+                0.7513020833333334,
+                0.36328125,
+                0.8997395833333334,
+                0.5146484375
+            ],
+            [
+                0.69140625,
+                0.8193359375,
+                0.8424479166666666,
+                0.93359375
+            ],
+            [
+                0.5572916666666666,
+                0.390625,
+                0.63671875,
+                0.4931640625
+            ],
+            [
+                0.80859375,
+                0.65234375,
+                0.8997395833333334,
+                0.7490234375
+            ]
+        ],
+        "generated_text": "a group of starfish are swimming in an aquarium",
+        "prompt_w_label": "a group of starfish are swimming in an aquarium, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of starfish are swimming in an aquarium, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8342_jpg.rf.783d618ba66fc9dd9d32656e6d5019ab.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.4638671875,
+                0.6106770833333334,
+                0.8037109375,
+                0.8580729166666666
+            ],
+            [
+                0.025390625,
+                0.3424479166666667,
+                0.0859375,
+                0.51953125
+            ],
+            [
+                0.1748046875,
+                0.1640625,
+                0.23828125,
+                0.2825520833333333
+            ]
+        ],
+        "generated_text": "a fish swimming in a large body of water near rocks",
+        "prompt_w_label": "a fish swimming in a large body of water near rocks, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a large body of water near rocks, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8578_MOV-1_jpg.rf.7ba2500fc572cf5045ab9880ae2ed106.jpg",
+        "label": "shark",
+        "height": 576,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.1240234375,
+                0.28125,
+                0.544921875,
+                0.8020833333333334
+            ]
+        ],
+        "generated_text": "a shark swimming in the dark water of a dark room",
+        "prompt_w_label": "a shark swimming in the dark water of a dark room, shark, height: 576, width: 1024",
+        "prompt_w_suffix": "a shark swimming in the dark water of a dark room, shark, height: 576, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3157_jpeg_jpg.rf.733ab479bba3333edf7a1cda5054a7e9.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.77734375,
+                0.69921875,
+                1.0,
+                0.9306640625
+            ],
+            [
+                0.3971354166666667,
+                0.0,
+                1.0,
+                0.1904296875
+            ],
+            [
+                0.5494791666666666,
+                0.2822265625,
+                0.83984375,
+                0.3876953125
+            ]
+        ],
+        "generated_text": "a group of puffins swimming in a tank of water",
+        "prompt_w_label": "a group of puffins swimming in a tank of water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of puffins swimming in a tank of water, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2349_jpeg_jpg.rf.743d7a69284c7ee65b40548c2803bd34.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.2109375,
+                0.3330078125,
+                0.8346354166666666,
+                0.6015625
+            ]
+        ],
+        "generated_text": "a penguin swimming in the water near some rocks",
+        "prompt_w_label": "a penguin swimming in the water near some rocks, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water near some rocks, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8550_jpg.rf.7f9f25d5d968b77bc0664fb82fc9a9c9.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.28515625,
+                0.0,
+                0.513671875,
+                0.80859375
+            ]
+        ],
+        "generated_text": "a fish swimming in a tank with some rocks and plants",
+        "prompt_w_label": "a fish swimming in a tank with some rocks and plants, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a tank with some rocks and plants, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2291_jpeg_jpg.rf.78e908bd2cc12eafc40a5bf3101b8b39.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.2825520833333333,
+                0.2373046875,
+                0.9609375,
+                0.5029296875
+            ]
+        ],
+        "generated_text": "a puffin swimming in the water near some rocks and a waterfall",
+        "prompt_w_label": "a puffin swimming in the water near some rocks and a waterfall, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in the water near some rocks and a waterfall, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2308_jpeg_jpg.rf.7f5bc9634b415d515784dc7ae7a83532.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.10026041666666667,
+                0.3916015625,
+                0.7669270833333334,
+                0.70703125
+            ]
+        ],
+        "generated_text": "a penguin swimming in the water under the rocks",
+        "prompt_w_label": "a penguin swimming in the water under the rocks, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water under the rocks, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2609_jpeg_jpg.rf.812bb452a59431bc957f24c60300dfee.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3463541666666667,
+                0.4833984375,
+                0.6901041666666666,
+                0.787109375
+            ]
+        ],
+        "generated_text": "a fish tank with a starfish and rocks in it",
+        "prompt_w_label": "a fish tank with a starfish and rocks in it, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish tank with a starfish and rocks in it, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8469_jpg.rf.7faf777e50196eee1e90df69e03fd778.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.3193359375,
+                0.1328125,
+                0.4384765625,
+                0.4140625
+            ],
+            [
+                0.3232421875,
+                0.4765625,
+                0.484375,
+                0.62109375
+            ],
+            [
+                0.4580078125,
+                0.0,
+                0.548828125,
+                0.13932291666666666
+            ],
+            [
+                0.1943359375,
+                0.7005208333333334,
+                0.48828125,
+                0.9049479166666666
+            ]
+        ],
+        "generated_text": "a fish swimming in a large aquarium with a blue light",
+        "prompt_w_label": "a fish swimming in a large aquarium with a blue light, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a large aquarium with a blue light, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2524_jpeg_jpg.rf.87f4a069ac66bc31523d434d04f9d2d6.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.359375,
+                0.37890625,
+                0.7916666666666666,
+                0.69140625
+            ]
+        ],
+        "generated_text": "a puffin swimming in a pool of water with rocks and a waterfall",
+        "prompt_w_label": "a puffin swimming in a pool of water with rocks and a waterfall, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in a pool of water with rocks and a waterfall, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8502_jpg.rf.81783141b72ae29e514d677ca0f5082d.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.267578125,
+                0.2643229166666667,
+                0.52734375,
+                0.8046875
+            ]
+        ],
+        "generated_text": "a large fish is swimming in a tank with a tree branch",
+        "prompt_w_label": "a large fish is swimming in a tank with a tree branch, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a large fish is swimming in a tank with a tree branch, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2304_jpeg_jpg.rf.87ed7625b3869f06caf5a9ca5720f3f4.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.4869791666666667,
+                0.4033203125,
+                0.85546875,
+                0.6279296875
+            ],
+            [
+                0.390625,
+                0.04296875,
+                0.47265625,
+                0.1328125
+            ],
+            [
+                0.7890625,
+                0.0966796875,
+                0.85546875,
+                0.1630859375
+            ],
+            [
+                0.359375,
+                0.08984375,
+                0.3919270833333333,
+                0.123046875
+            ],
+            [
+                0.8919270833333334,
+                0.1337890625,
+                0.9322916666666666,
+                0.173828125
+            ]
+        ],
+        "generated_text": "a penguin swimming in an aquarium with rocks and a waterfall",
+        "prompt_w_label": "a penguin swimming in an aquarium with rocks and a waterfall, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in an aquarium with rocks and a waterfall, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2536_jpeg_jpg.rf.89879f0a6436d7634771fd7de97784f8.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.26953125,
+                0.470703125,
+                0.7421875,
+                0.7080078125
+            ]
+        ],
+        "generated_text": "a starfish is sitting on a rock in an aquarium",
+        "prompt_w_label": "a starfish is sitting on a rock in an aquarium, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a starfish is sitting on a rock in an aquarium, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2566_jpeg_jpg.rf.8f6fd7144a30307e3f577604b587d0ff.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.24609375,
+                0.5556640625,
+                0.6393229166666666,
+                0.7333984375
+            ],
+            [
+                0.3059895833333333,
+                0.0517578125,
+                0.48828125,
+                0.111328125
+            ]
+        ],
+        "generated_text": "a large aquarium with a stingray in it and a sign",
+        "prompt_w_label": "a large aquarium with a stingray in it and a sign, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a large aquarium with a stingray in it and a sign, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2310_jpeg_jpg.rf.89adac79fea2745dae17668703c85ba2.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3059895833333333,
+                0.2373046875,
+                0.6184895833333334,
+                0.642578125
+            ]
+        ],
+        "generated_text": "a penguin swimming in an aquarium with its head out of the water",
+        "prompt_w_label": "a penguin swimming in an aquarium with its head out of the water, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in an aquarium with its head out of the water, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8517_MOV-6_jpg.rf.951387a4d17ab16e6d56234d3046ddfd.jpg",
+        "label": "fish",
+        "height": 576,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.0595703125,
+                0.11458333333333333,
+                0.2451171875,
+                0.2864583333333333
+            ],
+            [
+                0.5537109375,
+                0.484375,
+                0.7998046875,
+                0.7326388888888888
+            ],
+            [
+                0.1484375,
+                0.16145833333333334,
+                0.265625,
+                0.3003472222222222
+            ],
+            [
+                0.4853515625,
+                0.3333333333333333,
+                0.5009765625,
+                0.3611111111111111
+            ],
+            [
+                0.5244140625,
+                0.3125,
+                0.544921875,
+                0.3454861111111111
+            ]
+        ],
+        "generated_text": "a group of fish swimming in an aquarium with coral",
+        "prompt_w_label": "a group of fish swimming in an aquarium with coral, fish, height: 576, width: 1024",
+        "prompt_w_suffix": "a group of fish swimming in an aquarium with coral, fish, height: 576, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8500_jpg.rf.95c3f3780b381dea7a27e2042ecea9c6.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.478515625,
+                0.036458333333333336,
+                0.65625,
+                0.18229166666666666
+            ],
+            [
+                0.1513671875,
+                0.86328125,
+                0.224609375,
+                0.8971354166666666
+            ]
+        ],
+        "generated_text": "a large coral reef with many different types of fish and coral",
+        "prompt_w_label": "a large coral reef with many different types of fish and coral, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a large coral reef with many different types of fish and coral, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2556_jpeg_jpg.rf.95be135e1024945e03cb4e03910ce8fd.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.1484375,
+                0.54296875,
+                0.5533854166666666,
+                0.771484375
+            ]
+        ],
+        "generated_text": "a stingray is swimming in an aquarium with plants and rocks",
+        "prompt_w_label": "a stingray is swimming in an aquarium with plants and rocks, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a stingray is swimming in an aquarium with plants and rocks, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2312_jpeg_jpg.rf.92a094761408320b749e7fd4e4b98b91.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.21744791666666666,
+                0.4169921875,
+                1.0,
+                0.8203125
+            ]
+        ],
+        "generated_text": "a penguin swimming in the water with its head above the water",
+        "prompt_w_label": "a penguin swimming in the water with its head above the water, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water with its head above the water, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2284_jpeg_jpg.rf.99de11cb5727748bd3eae3afe7b415e6.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.25,
+                0.365234375,
+                0.80078125,
+                0.6162109375
+            ],
+            [
+                0.6627604166666666,
+                0.0,
+                0.7721354166666666,
+                0.1337890625
+            ],
+            [
+                0.78125,
+                0.0458984375,
+                0.89453125,
+                0.130859375
+            ]
+        ],
+        "generated_text": "a puffin swimming in a pool of water",
+        "prompt_w_label": "a puffin swimming in a pool of water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in a pool of water, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2384_jpeg_jpg.rf.a094269cf1f5522f894b6a2cfc636a8d.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.56640625,
+                0.490234375,
+                0.87109375,
+                0.7041015625
+            ]
+        ],
+        "generated_text": "a starfish is sitting on a rock in an aquarium",
+        "prompt_w_label": "a starfish is sitting on a rock in an aquarium, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a starfish is sitting on a rock in an aquarium, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2378_jpeg_jpg.rf.9a7993c75521d4b5383257936c7ab263.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3229166666666667,
+                0.4365234375,
+                0.5338541666666666,
+                0.595703125
+            ]
+        ],
+        "generated_text": "a starfish is sitting on the rocks near the water",
+        "prompt_w_label": "a starfish is sitting on the rocks near the water, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a starfish is sitting on the rocks near the water, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8548_jpg.rf.a4d3450e14fbb48bf958673fb404548b.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.525390625,
+                0.22395833333333334,
+                0.6318359375,
+                0.3502604166666667
+            ],
+            [
+                0.7548828125,
+                0.4192708333333333,
+                0.8857421875,
+                0.5078125
+            ],
+            [
+                0.3115234375,
+                0.8893229166666666,
+                0.3974609375,
+                0.9440104166666666
+            ],
+            [
+                0.0947265625,
+                0.609375,
+                0.2099609375,
+                0.7356770833333334
+            ]
+        ],
+        "generated_text": "a group of fish and coral in a reef environment",
+        "prompt_w_label": "a group of fish and coral in a reef environment, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a group of fish and coral in a reef environment, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2647_jpeg_jpg.rf.9b83da86e81bb2e5ba772305e2172d63.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.4596354166666667,
+                0.47265625,
+                0.6106770833333334,
+                0.546875
+            ]
+        ],
+        "generated_text": "a shark swimming in an aquarium with rocks and a sign",
+        "prompt_w_label": "a shark swimming in an aquarium with rocks and a sign, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in an aquarium with rocks and a sign, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2369_jpeg_jpg.rf.9cae2a081c00b8db2b2998919e65d420.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.10546875,
+                0.3388671875,
+                0.7252604166666666,
+                0.6806640625
+            ],
+            [
+                0.5390625,
+                0.6416015625,
+                0.9401041666666666,
+                0.9990234375
+            ]
+        ],
+        "generated_text": "a blue fish swimming in an aquarium next to a rock",
+        "prompt_w_label": "a blue fish swimming in an aquarium next to a rock, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a blue fish swimming in an aquarium next to a rock, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2656_jpeg_jpg.rf.a541b5b12110ebe4290c1c606ecb1f6a.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.4752604166666667,
+                0.509765625,
+                0.640625,
+                0.5634765625
+            ],
+            [
+                0.4713541666666667,
+                0.3251953125,
+                0.6393229166666666,
+                0.3759765625
+            ]
+        ],
+        "generated_text": "a man is looking at a fish in an aquarium",
+        "prompt_w_label": "a man is looking at a fish in an aquarium, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a man is looking at a fish in an aquarium, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2592_jpeg_jpg.rf.9c8ada079979c004ab05f15d6b66c902.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3059895833333333,
+                0.4306640625,
+                0.76953125,
+                0.5986328125
+            ]
+        ],
+        "generated_text": "a stingray is swimming in an aquarium with rocks and sand",
+        "prompt_w_label": "a stingray is swimming in an aquarium with rocks and sand, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a stingray is swimming in an aquarium with rocks and sand, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2302_jpeg_jpg.rf.aa8d7da0c33370589f2b441c7ca26450.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.2916666666666667,
+                0.4833984375,
+                0.6458333333333334,
+                0.5859375
+            ]
+        ],
+        "generated_text": "a blue penguin swimming in a pool of water next to rocks",
+        "prompt_w_label": "a blue penguin swimming in a pool of water next to rocks, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a blue penguin swimming in a pool of water next to rocks, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2405_jpeg_jpg.rf.a2556645dee0dd9c64327b09b4a4f6f8.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.4622395833333333,
+                0.5390625,
+                0.8020833333333334,
+                0.763671875
+            ],
+            [
+                0.16536458333333334,
+                0.66015625,
+                0.4817708333333333,
+                0.8427734375
+            ],
+            [
+                0.14713541666666666,
+                0.1650390625,
+                0.3059895833333333,
+                0.28125
+            ],
+            [
+                0.3046875,
+                0.169921875,
+                0.4075520833333333,
+                0.236328125
+            ],
+            [
+                0.11458333333333333,
+                0.1123046875,
+                0.19791666666666666,
+                0.1435546875
+            ],
+            [
+                0.11588541666666667,
+                0.09375,
+                0.20703125,
+                0.1220703125
+            ]
+        ],
+        "generated_text": "a group of fish swimming in an aquarium with coral and rocks",
+        "prompt_w_label": "a group of fish swimming in an aquarium with coral and rocks, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of fish swimming in an aquarium with coral and rocks, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3142_jpeg_jpg.rf.a6c10fb5c976d1f187eea2ee29fd7fe0.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.10416666666666667,
+                0.0478515625,
+                0.3606770833333333,
+                0.1513671875
+            ],
+            [
+                0.3619791666666667,
+                0.505859375,
+                0.51171875,
+                0.580078125
+            ],
+            [
+                0.08072916666666667,
+                0.2333984375,
+                0.2747395833333333,
+                0.357421875
+            ]
+        ],
+        "generated_text": "a large rock formation with a small puffin swimming in it",
+        "prompt_w_label": "a large rock formation with a small puffin swimming in it, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a large rock formation with a small puffin swimming in it, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8531_jpg.rf.abe45b49de6d004d043f2e5bda2763bd.jpg",
+        "label": "puffin",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.2744140625,
+                0.17708333333333334,
+                0.376953125,
+                0.31640625
+            ],
+            [
+                0.3173828125,
+                0.6927083333333334,
+                0.482421875,
+                0.8854166666666666
+            ],
+            [
+                0.2802734375,
+                0.5729166666666666,
+                0.3564453125,
+                0.6770833333333334
+            ],
+            [
+                0.2568359375,
+                0.87109375,
+                0.330078125,
+                0.9856770833333334
+            ]
+        ],
+        "generated_text": "a group of puffins are standing on rocks near a waterfall",
+        "prompt_w_label": "a group of puffins are standing on rocks near a waterfall, puffin, height: 768, width: 1024",
+        "prompt_w_suffix": "a group of puffins are standing on rocks near a waterfall, puffin, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8523_jpg.rf.b0834c4ac753865c2c89427a2bea0359.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.34375,
+                0.359375,
+                0.4267578125,
+                0.63671875
+            ],
+            [
+                0.43359375,
+                0.028645833333333332,
+                0.5185546875,
+                0.21614583333333334
+            ],
+            [
+                0.3994140625,
+                0.4817708333333333,
+                0.5,
+                0.796875
+            ],
+            [
+                0.419921875,
+                0.5403645833333334,
+                0.583984375,
+                0.7057291666666666
+            ],
+            [
+                0.2919921875,
+                0.56640625,
+                0.3681640625,
+                0.8203125
+            ]
+        ],
+        "generated_text": "a group of fish swimming in a tank with rocks and a tree",
+        "prompt_w_label": "a group of fish swimming in a tank with rocks and a tree, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a group of fish swimming in a tank with rocks and a tree, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2432_jpeg_jpg.rf.b0839d3e7f6a6fbc8f15a4e0ef385b7f.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.2747395833333333,
+                0.4892578125,
+                0.8255208333333334,
+                0.6513671875
+            ]
+        ],
+        "generated_text": "a group of people are looking at a shark in an aquarium",
+        "prompt_w_label": "a group of people are looking at a shark in an aquarium, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of people are looking at a shark in an aquarium, shark, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2608_jpeg_jpg.rf.9ba9cc2485112df87a73dee448aad2bc.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3580729166666667,
+                0.287109375,
+                0.79296875,
+                0.6875
+            ]
+        ],
+        "generated_text": "a starfish is in a tank with rocks and a mirror",
+        "prompt_w_label": "a starfish is in a tank with rocks and a mirror, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a starfish is in a tank with rocks and a mirror, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8471_jpg.rf.ae5a71d679103fd7cba244719b0e3157.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.29296875,
+                0.22265625,
+                0.6142578125,
+                0.86328125
+            ],
+            [
+                0.11328125,
+                0.41796875,
+                0.3203125,
+                0.9296875
+            ],
+            [
+                0.0234375,
+                0.5690104166666666,
+                0.1669921875,
+                0.8684895833333334
+            ]
+        ],
+        "generated_text": "two fish swimming in an aquarium with coral and rocks",
+        "prompt_w_label": "two fish swimming in an aquarium with coral and rocks, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "two fish swimming in an aquarium with coral and rocks, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8571_MOV-1_jpg.rf.b22e2df287efb2b9ecd33c88a607e31e.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 576,
+        "bboxes": [
+            [
+                0.043402777777777776,
+                0.287109375,
+                0.9982638888888888,
+                0.5166015625
+            ]
+        ],
+        "generated_text": "a shark swimming in the dark water of a body of water",
+        "prompt_w_label": "a shark swimming in the dark water of a body of water, shark, height: 1024, width: 576",
+        "prompt_w_suffix": "a shark swimming in the dark water of a body of water, shark, height: 1024, width: 576, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2543_jpeg_jpg.rf.a5b21db3b8925f4f5d1f71a7ab39453d.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.6588541666666666,
+                0.6953125,
+                0.8020833333333334,
+                0.828125
+            ],
+            [
+                0.3177083333333333,
+                0.5419921875,
+                0.4544270833333333,
+                0.6455078125
+            ],
+            [
+                0.6901041666666666,
+                0.5810546875,
+                0.8020833333333334,
+                0.681640625
+            ],
+            [
+                0.2109375,
+                0.640625,
+                0.3919270833333333,
+                0.73046875
+            ],
+            [
+                0.37109375,
+                0.4111328125,
+                0.4479166666666667,
+                0.4638671875
+            ],
+            [
+                0.3072916666666667,
+                0.365234375,
+                0.3919270833333333,
+                0.4267578125
+            ]
+        ],
+        "generated_text": "a fish tank with a lot of rocks and plants in it",
+        "prompt_w_label": "a fish tank with a lot of rocks and plants in it, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish tank with a lot of rocks and plants in it, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3130_jpeg_jpg.rf.b5b8d070c7b00dfecaf0564973e1f927.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.22005208333333334,
+                0.267578125,
+                0.4296875,
+                0.43359375
+            ],
+            [
+                0.7356770833333334,
+                0.2802734375,
+                0.8255208333333334,
+                0.37890625
+            ],
+            [
+                0.7799479166666666,
+                0.2724609375,
+                0.8502604166666666,
+                0.3515625
+            ],
+            [
+                0.5403645833333334,
+                0.2451171875,
+                0.5989583333333334,
+                0.3056640625
+            ],
+            [
+                0.6276041666666666,
+                0.314453125,
+                0.71875,
+                0.369140625
+            ]
+        ],
+        "generated_text": "a puffin flying over water in a zoo exhibit",
+        "prompt_w_label": "a puffin flying over water in a zoo exhibit, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin flying over water in a zoo exhibit, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8535_MOV-2_jpg.rf.b38dd29d6e6a5f33ca469b61999c5c01.jpg",
+        "label": "puffin",
+        "height": 576,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.34375,
+                0.4079861111111111,
+                0.4521484375,
+                0.6319444444444444
+            ],
+            [
+                0.2626953125,
+                0.3767361111111111,
+                0.30859375,
+                0.5034722222222222
+            ],
+            [
+                0.173828125,
+                0.3697916666666667,
+                0.2333984375,
+                0.4826388888888889
+            ],
+            [
+                0.80859375,
+                0.11805555555555555,
+                0.8642578125,
+                0.2222222222222222
+            ],
+            [
+                0.30078125,
+                0.4097222222222222,
+                0.357421875,
+                0.4878472222222222
+            ],
+            [
+                0.3974609375,
+                0.4201388888888889,
+                0.4384765625,
+                0.4982638888888889
+            ]
+        ],
+        "generated_text": "a group of puffins are standing on rocks near a body of water",
+        "prompt_w_label": "a group of puffins are standing on rocks near a body of water, puffin, height: 576, width: 1024",
+        "prompt_w_suffix": "a group of puffins are standing on rocks near a body of water, puffin, height: 576, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8517_MOV-3_jpg.rf.b6e2c680f3adfbedfe5b1bbed3920bb7.jpg",
+        "label": "fish",
+        "height": 576,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.6953125,
+                0.1736111111111111,
+                0.935546875,
+                0.4166666666666667
+            ],
+            [
+                0.76171875,
+                0.4982638888888889,
+                0.8896484375,
+                0.6753472222222222
+            ],
+            [
+                0.0,
+                0.2708333333333333,
+                0.091796875,
+                0.3958333333333333
+            ],
+            [
+                0.4716796875,
+                0.4149305555555556,
+                0.724609375,
+                0.6875
+            ]
+        ],
+        "generated_text": "a group of fish swimming in an aquarium with coral",
+        "prompt_w_label": "a group of fish swimming in an aquarium with coral, fish, height: 576, width: 1024",
+        "prompt_w_suffix": "a group of fish swimming in an aquarium with coral, fish, height: 576, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8327_jpg.rf.b859bdc46f8f4aaf4d1ff2b902e276df.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.0419921875,
+                0.20833333333333334,
+                0.568359375,
+                0.8763020833333334
+            ]
+        ],
+        "generated_text": "a fish swimming in a tank with a tree in the background",
+        "prompt_w_label": "a fish swimming in a tank with a tree in the background, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a tank with a tree in the background, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2316_jpeg_jpg.rf.bb8de66895ac8751f348c5df631f46ad.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.0,
+                0.4501953125,
+                0.6666666666666666,
+                0.7021484375
+            ]
+        ],
+        "generated_text": "a penguin swimming in an aquarium with a rock wall behind it",
+        "prompt_w_label": "a penguin swimming in an aquarium with a rock wall behind it, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in an aquarium with a rock wall behind it, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3132_jpeg_jpg.rf.bc9492bc4b33309ca664cc27baa03a1b.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3502604166666667,
+                0.2529296875,
+                0.44140625,
+                0.37109375
+            ]
+        ],
+        "generated_text": "a puffin standing in a pool of water next to a waterfall",
+        "prompt_w_label": "a puffin standing in a pool of water next to a waterfall, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin standing in a pool of water next to a waterfall, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2382_jpeg_jpg.rf.b431ad0ed94761ef82281dbe844170cc.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.11979166666666667,
+                0.3720703125,
+                0.94921875,
+                0.6923828125
+            ]
+        ],
+        "generated_text": "a fish swimming in an aquarium next to a rock",
+        "prompt_w_label": "a fish swimming in an aquarium next to a rock, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish swimming in an aquarium next to a rock, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2294_jpeg_jpg.rf.be432d5740148075ba72a4194c788a0c.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.08984375,
+                0.1513671875,
+                0.22395833333333334,
+                0.2431640625
+            ]
+        ],
+        "generated_text": "a close up of a puffin swimming in the water near rocks",
+        "prompt_w_label": "a close up of a puffin swimming in the water near rocks, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a close up of a puffin swimming in the water near rocks, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2548_jpeg_jpg.rf.b9a775702d3c300735ef690866a1c7cc.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.8776041666666666,
+                0.4248046875,
+                0.9596354166666666,
+                0.4794921875
+            ],
+            [
+                0.3958333333333333,
+                0.4072265625,
+                0.5065104166666666,
+                0.4443359375
+            ]
+        ],
+        "generated_text": "a fish swims in an aquarium with rocks and plants",
+        "prompt_w_label": "a fish swims in an aquarium with rocks and plants, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish swims in an aquarium with rocks and plants, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8496_MOV-1_jpg.rf.bfb30108c5b8c7ebd0b92028435ba919.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 576,
+        "bboxes": [
+            [
+                0.0,
+                0.4599609375,
+                0.4479166666666667,
+                0.6259765625
+            ]
+        ],
+        "generated_text": "a shark swimming in an aquarium with a bunch of rocks and logs",
+        "prompt_w_label": "a shark swimming in an aquarium with a bunch of rocks and logs, shark, height: 1024, width: 576",
+        "prompt_w_suffix": "a shark swimming in an aquarium with a bunch of rocks and logs, shark, height: 1024, width: 576, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2587_jpeg_jpg.rf.c0f1bbe427c9f29eaf89fed6f6d03471.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.13932291666666666,
+                0.4931640625,
+                0.48046875,
+                0.60546875
+            ],
+            [
+                0.4934895833333333,
+                0.453125,
+                0.8216145833333334,
+                0.560546875
+            ],
+            [
+                0.17708333333333334,
+                0.5576171875,
+                0.5859375,
+                0.7080078125
+            ]
+        ],
+        "generated_text": "a couple of stingrays are swimming in an aquarium",
+        "prompt_w_label": "a couple of stingrays are swimming in an aquarium, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a couple of stingrays are swimming in an aquarium, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2352_jpeg_jpg.rf.b91c732f98fab8234ac4ec50f25a7c32.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.53515625,
+                0.326171875,
+                0.96484375,
+                0.537109375
+            ],
+            [
+                0.14322916666666666,
+                0.431640625,
+                0.4322916666666667,
+                0.505859375
+            ]
+        ],
+        "generated_text": "a penguin swimming in the water near some rocks",
+        "prompt_w_label": "a penguin swimming in the water near some rocks, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water near some rocks, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8461_jpg.rf.c1f3ef25fac44501963625279e8ca614.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.2490234375,
+                0.2513020833333333,
+                0.35546875,
+                0.4700520833333333
+            ]
+        ],
+        "generated_text": "a fish swimming in a tank with rocks and other fish",
+        "prompt_w_label": "a fish swimming in a tank with rocks and other fish, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a tank with rocks and other fish, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2545_jpeg_jpg.rf.be6ed99fa1fb8d17c5d54d7f09cc5d89.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.08723958333333333,
+                0.6689453125,
+                0.2799479166666667,
+                0.849609375
+            ],
+            [
+                0.4283854166666667,
+                0.462890625,
+                0.6419270833333334,
+                0.599609375
+            ],
+            [
+                0.6927083333333334,
+                0.6796875,
+                0.9296875,
+                0.875
+            ]
+        ],
+        "generated_text": "a group of starfish and sea anemones are swimming in an aquarium",
+        "prompt_w_label": "a group of starfish and sea anemones are swimming in an aquarium, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of starfish and sea anemones are swimming in an aquarium, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2286_jpeg_jpg.rf.bbcb2046dedb8e1fb3a9519848c1a4c2.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.22916666666666666,
+                0.388671875,
+                0.8424479166666666,
+                0.5732421875
+            ],
+            [
+                0.73046875,
+                0.0859375,
+                0.8932291666666666,
+                0.2548828125
+            ],
+            [
+                0.6263020833333334,
+                0.10546875,
+                0.7109375,
+                0.263671875
+            ],
+            [
+                0.8046875,
+                0.1005859375,
+                0.92578125,
+                0.24609375
+            ]
+        ],
+        "generated_text": "a puffin swimming in a pool with rocks and water",
+        "prompt_w_label": "a puffin swimming in a pool with rocks and water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in a pool with rocks and water, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3181_jpeg_jpg.rf.c52b54494d4236e54b900fe60bd6565b.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.07942708333333333,
+                0.4951171875,
+                0.47265625,
+                0.671875
+            ],
+            [
+                0.5455729166666666,
+                0.4912109375,
+                0.8828125,
+                0.673828125
+            ]
+        ],
+        "generated_text": "a couple of two starfish are sitting in a tank",
+        "prompt_w_label": "a couple of two starfish are sitting in a tank, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a couple of two starfish are sitting in a tank, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2628_jpeg_jpg.rf.c607a4280b054d5a636f5ee3398b886d.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.09375,
+                0.1787109375,
+                0.7799479166666666,
+                0.599609375
+            ]
+        ],
+        "generated_text": "a stingray swimming in an aquarium with rocks and plants",
+        "prompt_w_label": "a stingray swimming in an aquarium with rocks and plants, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a stingray swimming in an aquarium with rocks and plants, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2350_jpeg_jpg.rf.c77c8bea4bbacefbccb48673c5f40171.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.50390625,
+                0.3037109375,
+                0.7916666666666666,
+                0.4560546875
+            ]
+        ],
+        "generated_text": "a penguin swimming in the water near some rocks",
+        "prompt_w_label": "a penguin swimming in the water near some rocks, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water near some rocks, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8328_jpg.rf.c7cdca0b7dc7a6ac3c44254a11bd63cc.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.0625,
+                0.07942708333333333,
+                0.814453125,
+                0.8072916666666666
+            ]
+        ],
+        "generated_text": "a fish swimming in a tank with a log in the background",
+        "prompt_w_label": "a fish swimming in a tank with a log in the background, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a tank with a log in the background, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2515_jpeg_jpg.rf.c7255981abc23128903ac9ece1b4d8b5.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.38671875,
+                0.505859375,
+                0.7734375,
+                0.6630859375
+            ]
+        ],
+        "generated_text": "a shark swimming in an aquarium with rocks and a cave",
+        "prompt_w_label": "a shark swimming in an aquarium with rocks and a cave, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in an aquarium with rocks and a cave, shark, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3162_jpeg_jpg.rf.ca22f639cc30b9f768ad729155f6ad6e.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.15625,
+                0.513671875,
+                0.5833333333333334,
+                0.6435546875
+            ],
+            [
+                0.08463541666666667,
+                0.208984375,
+                0.4661458333333333,
+                0.3359375
+            ],
+            [
+                0.37890625,
+                0.2373046875,
+                0.6927083333333334,
+                0.3447265625
+            ],
+            [
+                0.13151041666666666,
+                0.75,
+                0.2109375,
+                0.8154296875
+            ],
+            [
+                0.64453125,
+                0.359375,
+                0.8333333333333334,
+                0.41796875
+            ]
+        ],
+        "generated_text": "a close up of a person's hand in the water next to a puffin",
+        "prompt_w_label": "a close up of a person's hand in the water next to a puffin, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a close up of a person's hand in the water next to a puffin, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8571_MOV-5_jpg.rf.c8b11ac37b7b57b79bba5e4aec07ad73.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 576,
+        "bboxes": [
+            [
+                0.0,
+                0.435546875,
+                0.2065972222222222,
+                0.5927734375
+            ]
+        ],
+        "generated_text": "a man is standing in the water next to a shark",
+        "prompt_w_label": "a man is standing in the water next to a shark, shark, height: 1024, width: 576",
+        "prompt_w_suffix": "a man is standing in the water next to a shark, shark, height: 1024, width: 576, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8536_jpg.rf.cead5d43fe445a3083e912b5423210c3.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.4404296875,
+                0.57421875,
+                0.6865234375,
+                0.9114583333333334
+            ],
+            [
+                0.259765625,
+                0.0,
+                0.3515625,
+                0.21875
+            ],
+            [
+                0.671875,
+                0.0703125,
+                0.734375,
+                0.2591145833333333
+            ],
+            [
+                0.021484375,
+                0.0,
+                0.083984375,
+                0.07552083333333333
+            ]
+        ],
+        "generated_text": "a close up of a fish tank with rocks and plants",
+        "prompt_w_label": "a close up of a fish tank with rocks and plants, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a close up of a fish tank with rocks and plants, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2370_jpeg_jpg.rf.d5bdf9d889fa01a687af0038c3ede236.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.07421875,
+                0.423828125,
+                0.7578125,
+                0.603515625
+            ],
+            [
+                0.9049479166666666,
+                0.44140625,
+                0.9986979166666666,
+                0.5234375
+            ]
+        ],
+        "generated_text": "a fish swimming in an aquarium next to a large rock",
+        "prompt_w_label": "a fish swimming in an aquarium next to a large rock, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish swimming in an aquarium next to a large rock, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2287_jpeg_jpg.rf.cce12b7bb4e49aa145398504aef84c99.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.08333333333333333,
+                0.16796875,
+                0.7317708333333334,
+                0.6630859375
+            ]
+        ],
+        "generated_text": "a close up of a puffin swimming in a pool of water",
+        "prompt_w_label": "a close up of a puffin swimming in a pool of water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a close up of a puffin swimming in a pool of water, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8571_MOV-4_jpg.rf.d7b7c24c46f21df8cca7ae652464d2d1.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 576,
+        "bboxes": [
+            [
+                0.003472222222222222,
+                0.341796875,
+                0.4618055555555556,
+                0.46484375
+            ],
+            [
+                0.1597222222222222,
+                0.484375,
+                0.8680555555555556,
+                0.625
+            ]
+        ],
+        "generated_text": "two sharks swimming in the dark water of a large aquarium",
+        "prompt_w_label": "two sharks swimming in the dark water of a large aquarium, fish, height: 1024, width: 576",
+        "prompt_w_suffix": "two sharks swimming in the dark water of a large aquarium, fish, height: 1024, width: 576, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2550_jpeg_jpg.rf.d8b525b14483fc250303ce4be356b57c.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.4166666666666667,
+                0.607421875,
+                0.81640625,
+                0.7705078125
+            ]
+        ],
+        "generated_text": "a stingray is swimming in an aquarium with plants and rocks",
+        "prompt_w_label": "a stingray is swimming in an aquarium with plants and rocks, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a stingray is swimming in an aquarium with plants and rocks, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8319_jpg.rf.d9c66db153b1293af6ce36c1e4f6455c.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.1259765625,
+                0.19270833333333334,
+                0.400390625,
+                0.7486979166666666
+            ]
+        ],
+        "generated_text": "a fish swimming in a tank with other fish and a rock",
+        "prompt_w_label": "a fish swimming in a tank with other fish and a rock, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a tank with other fish and a rock, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2549_jpeg_jpg.rf.d9307c4549bb67163bb43c81fb771cd8.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.2916666666666667,
+                0.5341796875,
+                0.75390625,
+                0.7587890625
+            ]
+        ],
+        "generated_text": "a stingray is swimming in a tank with plants and rocks",
+        "prompt_w_label": "a stingray is swimming in a tank with plants and rocks, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a stingray is swimming in a tank with plants and rocks, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3148_jpeg_jpg.rf.daef4a62da020f684a31336a19f54ee8.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.0,
+                0.2001953125,
+                0.9986979166666666,
+                0.83984375
+            ],
+            [
+                0.5989583333333334,
+                0.2939453125,
+                0.6940104166666666,
+                0.3798828125
+            ],
+            [
+                0.52734375,
+                0.265625,
+                0.6041666666666666,
+                0.3486328125
+            ]
+        ],
+        "generated_text": "a puffin with wings spread under water in a pool",
+        "prompt_w_label": "a puffin with wings spread under water in a pool, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin with wings spread under water in a pool, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3152_jpeg_jpg.rf.e018fb206e9194f3536a290f0c649274.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.20963541666666666,
+                0.1279296875,
+                0.4388020833333333,
+                0.216796875
+            ],
+            [
+                0.0,
+                0.0341796875,
+                0.07552083333333333,
+                0.0927734375
+            ],
+            [
+                0.3515625,
+                0.59375,
+                0.5651041666666666,
+                0.732421875
+            ]
+        ],
+        "generated_text": "a large aquarium with a large rock wall and a few puffin",
+        "prompt_w_label": "a large aquarium with a large rock wall and a few puffin, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a large aquarium with a large rock wall and a few puffin, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2408_jpeg_jpg.rf.e0e6c527f73aed3fdbdd2cabeea44fe0.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.5872395833333334,
+                0.0927734375,
+                0.8046875,
+                0.2353515625
+            ],
+            [
+                0.2604166666666667,
+                0.4853515625,
+                0.5638020833333334,
+                0.6181640625
+            ],
+            [
+                0.4348958333333333,
+                0.4833984375,
+                0.6484375,
+                0.5986328125
+            ],
+            [
+                0.9231770833333334,
+                0.1396484375,
+                1.0,
+                0.1943359375
+            ],
+            [
+                0.4075520833333333,
+                0.0859375,
+                0.4934895833333333,
+                0.1142578125
+            ],
+            [
+                0.8528645833333334,
+                0.0986328125,
+                0.9348958333333334,
+                0.1240234375
+            ]
+        ],
+        "generated_text": "a couple of fish swimming in an aquarium with coral",
+        "prompt_w_label": "a couple of fish swimming in an aquarium with coral, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a couple of fish swimming in an aquarium with coral, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8522_jpg.rf.de6f1dbe20d278d2b0052bc448aa93d8.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.42578125,
+                0.14583333333333334,
+                0.5185546875,
+                0.4088541666666667
+            ],
+            [
+                0.3330078125,
+                0.5065104166666666,
+                0.40625,
+                0.7578125
+            ],
+            [
+                0.451171875,
+                0.44921875,
+                0.5986328125,
+                0.6953125
+            ],
+            [
+                0.30078125,
+                0.7356770833333334,
+                0.3798828125,
+                0.9752604166666666
+            ],
+            [
+                0.3955078125,
+                0.7434895833333334,
+                0.4677734375,
+                0.9609375
+            ],
+            [
+                0.4677734375,
+                0.0,
+                0.533203125,
+                0.171875
+            ]
+        ],
+        "generated_text": "a group of fish swimming in a tank with rocks and gravel",
+        "prompt_w_label": "a group of fish swimming in a tank with rocks and gravel, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a group of fish swimming in a tank with rocks and gravel, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3123_jpeg_jpg.rf.e76afbe597d98c497fcf2ac25c3d0fc7.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.055989583333333336,
+                0.17578125,
+                0.9739583333333334,
+                0.7294921875
+            ],
+            [
+                0.6484375,
+                0.4267578125,
+                0.8736979166666666,
+                0.6455078125
+            ],
+            [
+                0.08463541666666667,
+                0.345703125,
+                0.5638020833333334,
+                0.5634765625
+            ],
+            [
+                0.0013020833333333333,
+                0.7236328125,
+                0.20182291666666666,
+                0.802734375
+            ],
+            [
+                0.41796875,
+                0.7080078125,
+                0.6471354166666666,
+                0.7685546875
+            ]
+        ],
+        "generated_text": "a fish tank with a starfish and rocks in it",
+        "prompt_w_label": "a fish tank with a starfish and rocks in it, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish tank with a starfish and rocks in it, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8512_MOV-4_jpg.rf.e879ecc625c150dfb308030a737ff9c5.jpg",
+        "label": "fish",
+        "height": 576,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.6904296875,
+                0.3211805555555556,
+                0.9384765625,
+                0.484375
+            ]
+        ],
+        "generated_text": "a close up of a fish in a tank with a bunch of plants",
+        "prompt_w_label": "a close up of a fish in a tank with a bunch of plants, fish, height: 576, width: 1024",
+        "prompt_w_suffix": "a close up of a fish in a tank with a bunch of plants, fish, height: 576, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8439_jpg.rf.e784fd1e3cd2e38fb7c169e2e54ad91e.jpg",
+        "label": "shark",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.28515625,
+                0.13020833333333334,
+                0.4677734375,
+                0.9153645833333334
+            ]
+        ],
+        "generated_text": "a man looking at a large shark in a tank",
+        "prompt_w_label": "a man looking at a large shark in a tank, shark, height: 768, width: 1024",
+        "prompt_w_suffix": "a man looking at a large shark in a tank, shark, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2482_jpeg_jpg.rf.e49b8fe3d265732ff3c0eb8172bd66ee.jpg",
+        "label": "jellyfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.24479166666666666,
+                0.626953125,
+                0.5390625,
+                0.8466796875
+            ],
+            [
+                0.014322916666666666,
+                0.7216796875,
+                0.2630208333333333,
+                0.89453125
+            ],
+            [
+                0.5,
+                0.3115234375,
+                0.7473958333333334,
+                0.4560546875
+            ],
+            [
+                0.0,
+                0.74609375,
+                0.09114583333333333,
+                0.9169921875
+            ]
+        ],
+        "generated_text": "a group of jellyfish swimming in the ocean under blue water",
+        "prompt_w_label": "a group of jellyfish swimming in the ocean under blue water, jellyfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of jellyfish swimming in the ocean under blue water, jellyfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3122_jpeg_jpg.rf.e9a29910dc8281cd1709baad92212e23.jpg",
+        "label": "starfish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.0013020833333333333,
+                0.0673828125,
+                0.7981770833333334,
+                0.7099609375
+            ],
+            [
+                0.5846354166666666,
+                0.51953125,
+                0.9713541666666666,
+                0.7978515625
+            ]
+        ],
+        "generated_text": "a fish tank with a starfish and other sea life in it",
+        "prompt_w_label": "a fish tank with a starfish and other sea life in it, starfish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish tank with a starfish and other sea life in it, starfish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2338_jpeg_jpg.rf.e7ed2b02a8b79ecfbf78d943ab27d48c.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.0013020833333333333,
+                0.6083984375,
+                0.6888020833333334,
+                0.8515625
+            ],
+            [
+                0.2513020833333333,
+                0.099609375,
+                0.74609375,
+                0.20703125
+            ]
+        ],
+        "generated_text": "two penguins swimming in an aquarium with rocks and water",
+        "prompt_w_label": "two penguins swimming in an aquarium with rocks and water, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "two penguins swimming in an aquarium with rocks and water, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8496_MOV-5_jpg.rf.eacca955182a03a262de9b2c4012ecc4.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 576,
+        "bboxes": [
+            [
+                0.0,
+                0.455078125,
+                0.2326388888888889,
+                0.626953125
+            ],
+            [
+                0.21875,
+                0.42578125,
+                0.8333333333333334,
+                0.544921875
+            ],
+            [
+                0.0,
+                0.5673828125,
+                0.6197916666666666,
+                0.6806640625
+            ]
+        ],
+        "generated_text": "two sharks swimming in an aquarium with a bunch of rocks",
+        "prompt_w_label": "two sharks swimming in an aquarium with a bunch of rocks, fish, height: 1024, width: 576",
+        "prompt_w_suffix": "two sharks swimming in an aquarium with a bunch of rocks, fish, height: 1024, width: 576, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3149_jpeg_jpg.rf.ec910aff6521c2af1a1bcbe5887b07f7.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.24088541666666666,
+                0.162109375,
+                0.6067708333333334,
+                0.5859375
+            ]
+        ],
+        "generated_text": "a puffin swimming in a pool of water with rocks and grass",
+        "prompt_w_label": "a puffin swimming in a pool of water with rocks and grass, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in a pool of water with rocks and grass, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8318_jpg.rf.ed4eeaebcf971e4f4a8f90bd351fb23c.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.2724609375,
+                0.2643229166666667,
+                0.64453125,
+                0.9388020833333334
+            ],
+            [
+                0.380859375,
+                0.24479166666666666,
+                0.482421875,
+                0.4518229166666667
+            ]
+        ],
+        "generated_text": "a fish swimming in a tank with rocks and other fish",
+        "prompt_w_label": "a fish swimming in a tank with rocks and other fish, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish swimming in a tank with rocks and other fish, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8519_jpg.rf.d10cb6cac5fa5d2e660cfca7d0f9ed14.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.5029296875,
+                0.5052083333333334,
+                0.5322265625,
+                0.5768229166666666
+            ],
+            [
+                0.3564453125,
+                0.3046875,
+                0.3818359375,
+                0.3372395833333333
+            ]
+        ],
+        "generated_text": "a child looking at a large aquarium with colorful fish",
+        "prompt_w_label": "a child looking at a large aquarium with colorful fish, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a child looking at a large aquarium with colorful fish, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2372_jpeg_jpg.rf.ea92b226d1699c4cb4276758024ffb3a.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3697916666666667,
+                0.435546875,
+                0.80859375,
+                0.720703125
+            ],
+            [
+                0.5755208333333334,
+                0.732421875,
+                0.9986979166666666,
+                0.9912109375
+            ]
+        ],
+        "generated_text": "a fish swimming in a tank with a large rock in the background",
+        "prompt_w_label": "a fish swimming in a tank with a large rock in the background, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish swimming in a tank with a large rock in the background, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2328_jpeg_jpg.rf.ee3309e0a5ab09d96d9ed30bc1c1115f.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3841145833333333,
+                0.5634765625,
+                0.5455729166666666,
+                0.6611328125
+            ]
+        ],
+        "generated_text": "a penguin swimming in the water near a rock wall",
+        "prompt_w_label": "a penguin swimming in the water near a rock wall, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water near a rock wall, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3137_jpeg_jpg.rf.f066fa3a50b9e2b392c9889bc3caaff8.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.3216145833333333,
+                0.46875,
+                0.6419270833333334,
+                0.6943359375
+            ],
+            [
+                0.09375,
+                0.08203125,
+                0.18229166666666666,
+                0.17578125
+            ],
+            [
+                0.17708333333333334,
+                0.1640625,
+                0.3020833333333333,
+                0.26171875
+            ]
+        ],
+        "generated_text": "a puffin swimming in a pool of water near a rock wall",
+        "prompt_w_label": "a puffin swimming in a pool of water near a rock wall, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a puffin swimming in a pool of water near a rock wall, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2649_jpeg_jpg.rf.efd042de1468c6f1725e06af6b1d9ffd.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.46484375,
+                0.4326171875,
+                0.6705729166666666,
+                0.5302734375
+            ]
+        ],
+        "generated_text": "a fish swimming in an aquarium with rocks and coral",
+        "prompt_w_label": "a fish swimming in an aquarium with rocks and coral, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish swimming in an aquarium with rocks and coral, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2375_jpeg_jpg.rf.ed73b2179f3b96fe3088456fc43a2cf5.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.07291666666666667,
+                0.353515625,
+                0.9908854166666666,
+                0.703125
+            ]
+        ],
+        "generated_text": "a fish swimming in an aquarium with rocks and a cave",
+        "prompt_w_label": "a fish swimming in an aquarium with rocks and a cave, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish swimming in an aquarium with rocks and a cave, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2351_jpeg_jpg.rf.edf3aaeca6e2355052e41c0cc57f9cb6.jpg",
+        "label": "penguin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.0,
+                0.28515625,
+                0.4661458333333333,
+                0.4833984375
+            ],
+            [
+                0.4453125,
+                0.4443359375,
+                0.796875,
+                0.50390625
+            ]
+        ],
+        "generated_text": "a penguin swimming in the water near some rocks",
+        "prompt_w_label": "a penguin swimming in the water near some rocks, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water near some rocks, penguin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8549_jpg.rf.ee5f8f7fa2cae6f1e528e1b350ad4046.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.1962890625,
+                0.4674479166666667,
+                0.498046875,
+                0.7109375
+            ]
+        ],
+        "generated_text": "a clown fish swimming in a coral reef with a starfish",
+        "prompt_w_label": "a clown fish swimming in a coral reef with a starfish, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a clown fish swimming in a coral reef with a starfish, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8376_jpg.rf.f129d46d1c4ae234b8aebe69ea012d64.jpg",
+        "label": "fish",
+        "height": 768,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.341796875,
+                0.4453125,
+                0.45703125,
+                0.734375
+            ],
+            [
+                0.1083984375,
+                0.4856770833333333,
+                0.16796875,
+                0.62890625
+            ],
+            [
+                0.115234375,
+                0.4973958333333333,
+                0.208984375,
+                0.7486979166666666
+            ]
+        ],
+        "generated_text": "a couple of a couple of fish swimming in a tank",
+        "prompt_w_label": "a couple of a couple of fish swimming in a tank, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a couple of a couple of fish swimming in a tank, fish, height: 768, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2624_jpeg_jpg.rf.f10f557d310720d6c38739ba284918f8.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.13151041666666666,
+                0.4443359375,
+                0.7096354166666666,
+                0.7041015625
+            ]
+        ],
+        "generated_text": "a fish swimming in an aquarium with rocks and plants",
+        "prompt_w_label": "a fish swimming in an aquarium with rocks and plants, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish swimming in an aquarium with rocks and plants, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2653_jpeg_jpg.rf.f5e2d0fb8b333ea049c7cba182d78725.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.4635416666666667,
+                0.4697265625,
+                0.71875,
+                0.603515625
+            ]
+        ],
+        "generated_text": "a stingray swimming in an aquarium next to a rock wall",
+        "prompt_w_label": "a stingray swimming in an aquarium next to a rock wall, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a stingray swimming in an aquarium next to a rock wall, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8517_MOV-1_jpg.rf.f38c10686e4a0e257b1f2d8f4bb5f4b1.jpg",
+        "label": "fish",
+        "height": 576,
+        "width": 1024,
+        "bboxes": [
+            [
+                0.1728515625,
+                0.4184027777777778,
+                0.36328125,
+                0.6788194444444444
+            ],
+            [
+                0.8740234375,
+                0.0642361111111111,
+                0.9990234375,
+                0.3038194444444444
+            ],
+            [
+                0.359375,
+                0.4288194444444444,
+                0.4736328125,
+                0.5694444444444444
+            ],
+            [
+                0.8486328125,
+                0.09722222222222222,
+                0.935546875,
+                0.2361111111111111
+            ],
+            [
+                0.6689453125,
+                0.2864583333333333,
+                0.763671875,
+                0.4184027777777778
+            ],
+            [
+                0.64453125,
+                0.5052083333333334,
+                0.708984375,
+                0.7378472222222222
+            ]
+        ],
+        "generated_text": "a group of fish swimming in a coral reef tank",
+        "prompt_w_label": "a group of fish swimming in a coral reef tank, fish, height: 576, width: 1024",
+        "prompt_w_suffix": "a group of fish swimming in a coral reef tank, fish, height: 576, width: 1024, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_3159_jpeg_jpg.rf.f6e6e62d74debd64b3f1301ca0e00076.jpg",
+        "label": "puffin",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.19921875,
+                0.0,
+                0.94921875,
+                0.2236328125
+            ],
+            [
+                0.4713541666666667,
+                0.58984375,
+                0.7083333333333334,
+                0.7041015625
+            ],
+            [
+                0.0,
+                0.19140625,
+                0.16015625,
+                0.314453125
+            ]
+        ],
+        "generated_text": "a close up of a puffin swimming in an aquarium",
+        "prompt_w_label": "a close up of a puffin swimming in an aquarium, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a close up of a puffin swimming in an aquarium, puffin, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2358_jpeg_jpg.rf.efdef53aafee680685b00990131e1442.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.10546875,
+                0.3740234375,
+                0.7955729166666666,
+                0.671875
+            ]
+        ],
+        "generated_text": "a fish is swimming in an aquarium with rocks and a cave",
+        "prompt_w_label": "a fish is swimming in an aquarium with rocks and a cave, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish is swimming in an aquarium with rocks and a cave, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2646_jpeg_jpg.rf.f128f9fb09439406d8dc2abb9a1b74c7.jpg",
+        "label": "stingray",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.46875,
+                0.48828125,
+                0.5390625,
+                0.5947265625
+            ]
+        ],
+        "generated_text": "a man is standing in a cave with a fish",
+        "prompt_w_label": "a man is standing in a cave with a fish, stingray, height: 1024, width: 768",
+        "prompt_w_suffix": "a man is standing in a cave with a fish, stingray, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_2403_jpeg_jpg.rf.fc3a8f234fe9214577fc7f5d2df940b6.jpg",
+        "label": "fish",
+        "height": 1024,
+        "width": 768,
+        "bboxes": [
+            [
+                0.13671875,
+                0.3359375,
+                0.9986979166666666,
+                0.7685546875
+            ],
+            [
+                0.76171875,
+                0.4287109375,
+                1.0,
+                0.6201171875
+            ],
+            [
+                0.3385416666666667,
+                0.19921875,
+                0.5859375,
+                0.3583984375
+            ],
+            [
+                0.76171875,
+                0.2158203125,
+                0.9166666666666666,
+                0.3291015625
+            ],
+            [
+                0.7317708333333334,
+                0.28125,
+                0.7799479166666666,
+                0.3173828125
+            ]
+        ],
+        "generated_text": "a group of fish swimming in an aquarium with coral and rocks",
+        "prompt_w_label": "a group of fish swimming in an aquarium with coral and rocks, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of fish swimming in an aquarium with coral and rocks, fish, height: 1024, width: 768, HD quality, highly detailed"
+    },
+    {
+        "image": "IMG_8571_MOV-0_jpg.rf.f4ca11babed3711ce449c6a066be33a5.jpg",
+        "label": "shark",
+        "height": 1024,
+        "width": 576,
+        "bboxes": [
+            [
+                0.06944444444444445,
+                0.2939453125,
+                0.9982638888888888,
+                0.5
+            ]
+        ],
+        "generated_text": "a shark swimming in the dark under water with a light",
+        "prompt_w_label": "a shark swimming in the dark under water with a light, shark, height: 1024, width: 576",
+        "prompt_w_suffix": "a shark swimming in the dark under water with a light, shark, height: 1024, width: 576, HD quality, highly detailed"
+    }
+]
